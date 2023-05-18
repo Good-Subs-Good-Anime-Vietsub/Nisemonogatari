@@ -22,9 +22,9 @@ Video File: ../raws/[OZR] Nisemonogatari - 04 (BD 1080p HEVC Opus) [4A64DC78].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 524
-Active Line: 545
-Video Position: 38207
+Scroll Position: 344
+Active Line: 347
+Video Position: 27155
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -225,16 +225,16 @@ Dialogue: 9,0:09:41.08,0:09:46.27,Main,,0,0,0,,{\i1}Tạm thời tôi quyết đ
 Dialogue: 9,0:09:46.79,0:09:49.19,Main,,0,0,0,,{\i1}Thực sự tôi đang rất cần lấy lại bình tĩnh.
 Dialogue: 9,0:09:49.19,0:09:52.94,Main,,0,0,0,,{\i1}Không là lại lao vào mắng chửi tụi nó mất.
 Dialogue: 9,0:09:54.71,0:09:56.06,Main,,0,0,0,,À phải rồi, Hanekawa...
-Dialogue: 9,0:09:56.82,0:10:00.55,Main,,0,0,0,,Cậu đã nói gì với Senjōgahara \Ntrên điện thoại thế?
+Dialogue: 9,0:09:56.82,0:10:00.55,Main,,0,0,0,,Cậu đã nói gì với Senjōgahara \Nqua điện thoại thế?
 Dialogue: 9,0:10:00.55,0:10:02.11,Main,,0,0,0,,À, nói gì á?
-Dialogue: 9,0:10:02.11,0:10:04.60,Main,,0,0,0,,Tsukihi-chan đã gửi một email cho cậu ấy.
-Dialogue: 9,0:10:04.60,0:10:07.63,Main,,0,0,0,,Nhưng lại không thấy cậu ấy phản hồi ngay.
+Dialogue: 9,0:10:02.11,0:10:04.60,Main,,0,0,0,,Chuyện là... Tsukihi-chan đã gửi một email cho cậu.
+Dialogue: 9,0:10:04.60,0:10:07.63,Main,,0,0,0,,Nhưng lạ là không thấy cậu phản hồi ngay.
 Dialogue: 9,0:10:07.63,0:10:10.08,Main,,0,0,0,,Nên là tớ gọi luôn.
-Dialogue: 9,0:10:11.34,0:10:15.30,Main,,0,0,0,,Dù có hơi độc mồm độc miệng,\N thì hai em ấy vẫn tin tưởng cậu ha.
+Dialogue: 9,0:10:11.34,0:10:15.30,Main,,0,0,0,,Dù có hơi độc mồm độc miệng,\N nhưng hai em ấy vẫn tin tưởng cậu ha.
 Dialogue: 9,0:10:15.30,0:10:19.73,Main,,0,0,0,,À thì, nói chung \Ntớ cũng hiểu được phần nào rồi.
 Dialogue: 9,0:10:19.73,0:10:23.30,Main,,0,0,0,,Nhưng làm thế nào mà \Ncậu thuyết phục được  Senjōgahara thế?
 Dialogue: 9,0:10:23.30,0:10:24.31,Main,,0,0,0,,Có gì đâu.
-Dialogue: 9,0:10:24.31,0:10:28.43,Main,,0,0,0,,Chỉ cần nghe giọng Senjōgahara\N là tớ hiểu ra vấn đề rồi.
+Dialogue: 9,0:10:24.31,0:10:28.43,Main,,0,0,0,,Chỉ cần nghe thấy giọng Senjōgahara\N là tớ hiểu ra vấn đề rồi.
 Dialogue: 9,0:10:28.43,0:10:30.44,Main,,0,0,0,,Nên tớ đưa ra\N yêu cầu nhanh gọn luôn.
 Dialogue: 9,0:10:30.44,0:10:32.06,Main,,0,0,0,,Yêu cầu nhanh gọn gì cơ?
 Dialogue: 9,0:10:32.06,0:10:34.44,Main,,0,0,0,,"Nếu cậu mà không biết vâng lời...
@@ -242,8 +242,8 @@ Dialogue: 9,0:10:34.44,0:10:37.06,Main,,0,0,0,,là tớ tỏ tình với Araragi
 Dialogue: 9,0:10:41.19,0:10:42.44,Main,,0,0,0,,{\i1}Khiếp quá~
 Dialogue: 9,0:10:58.79,0:10:59.55,Main,,0,0,0,,Ơ...
 Dialogue: 9,0:11:00.71,0:11:03.48,Main,,0,0,0,,Bị nhìn thấy khỏa thân như này...
-Dialogue: 0,0:11:03.48,0:11:07.80,GT,,0,0,0,,{\an7\pos(60.67,37.67)\blur0.6\bord0\shad0\fscx100\fscy100\p1\1a&H00&\c&H000D03&}m 1829 113 l -42 113 l -42 -23 l 1829 -23 m -39 -20 l -39 110 l 1826 110 l 1826 -20 
-Dialogue: 0,0:11:03.48,0:11:07.80,GT,,0,0,0,,{\an7\pos(60.67,37.67)\blur0.6\bord0\shad0\fscx100\fscy100\p1\1a&H8E&\c&H000000&}m 1826 110 l -39 110 l -39 -20 l 1826 -20 
+Dialogue: 0,0:11:03.48,0:11:07.80,GT,,0,0,0,,{\an7\pos(60.67,37.67)\blur0.6\bord0\shad0\fscx100\fscy100\p1\1a&H00&\c&H000D03&}m 1829 113 l -42 113 l -42 -23 l 1829 -23 m -39 -20 l -39 110 l 1826 110 l 1826 -20
+Dialogue: 0,0:11:03.48,0:11:07.80,GT,,0,0,0,,{\an7\pos(60.67,37.67)\blur0.6\bord0\shad0\fscx100\fscy100\p1\1a&H8E&\c&H000000&}m 1826 110 l -39 110 l -39 -20 l 1826 -20
 Dialogue: 2,0:11:03.48,0:11:07.80,GT,,0,0,0,,{\bord0\shad0\an7\pos(60.67,37.67)\fs50\blur0.6\c&H22EDF5&}Shinobu{\c} gọi {\c&H22EDF5&}Araragi{\c} là {\c&HF1FF36&}Omae-sama{\c}, đây là cách {\c&H23F533&}xưng hô trang trọng{\c} thời xưa, cụ thể là {\c&H23F533&}thời Edo{\c}, \Nphù hợp với khoảng thời gian {\c&H23F533&}học Tiếng Nhật{\c} của {\c&H22EDF5&}Shinobu{\c}, thời nay thì nghe khá là ảo.
 Dialogue: 9,0:11:03.48,0:11:07.80,Main,,0,0,0,,tức là lão nương cũng phải lấy {\i1}lão gia{\i0}\N làm lão công ha.
 Dialogue: 9,0:11:07.80,0:11:09.55,Main,,0,0,0,,Thưa chủ nhân.
@@ -313,7 +313,7 @@ Dialogue: 9,0:14:36.18,0:14:37.18,Main,,0,0,0,,Nhưng...
 Dialogue: 9,0:14:37.18,0:14:40.41,Main,,0,0,0,,Thích nhất thì phải là Sô-cô-la Vàng.
 Dialogue: 9,0:14:40.41,0:14:43.69,Main,,0,0,0,,Nên nếu có ý định mua 2 cái \Nthì nhớ 2 cái đó.
 Dialogue: 9,0:14:46.06,0:14:47.30,Main,,0,0,0,,Ghi lòng tạc dạ.
-Dialogue: 9,0:14:53.20,0:14:54.78,Main,,0,0,0,@@@,Ong Lửa Vây.
+Dialogue: 9,0:14:53.20,0:14:54.78,Main,,0,0,0,@@@,Ong Lửa Bủa Vây.
 Dialogue: 9,0:14:54.79,0:14:56.54,Main,,0,0,0,,Quái Dị về "ong bắp cày khổng lồ Châu Á" hen.
 Dialogue: 9,0:14:56.54,0:14:58.54,Main,,0,0,0,,Vậy... chả lẽ là...
 Dialogue: 9,0:14:58.54,0:15:02.79,Main,,0,0,0,,Chính là Quái Dị mà cô em gái "khổng lồ"\N của lão gia đang vướng phải.
@@ -326,7 +326,7 @@ Dialogue: 9,0:15:19.09,0:15:23.50,Main,,0,0,0,,mấy chuyện vô bổ \Nliên q
 Dialogue: 9,0:15:23.50,0:15:27.11,Main,,0,0,0,,Còn lão nương thì phải im lặng lắng nghe,\N cái cảm giác đó...
 Dialogue: 9,0:15:28.42,0:15:29.36,Main,,0,0,0,,{\i1}Chịu sao nổi!
 Dialogue: 9,0:15:30.11,0:15:32.36,Main,,0,0,0,,Và đây là một trong số đó...
-Dialogue: 9,0:15:32.36,0:15:34.12,Main,,0,0,0,,Ong Lửa Vây.
+Dialogue: 9,0:15:32.36,0:15:34.12,Main,,0,0,0,,Ong Lửa Bủa Vây.
 Dialogue: 9,0:15:34.12,0:15:35.75,Main,,0,0,0,,Không nhầm thì...
 Dialogue: 9,0:15:35.77,0:15:38.60,Main,,0,0,0,,đây là Quái Dị từ thời kỳ Muromachi hen.
 Dialogue: 9,0:15:38.60,0:15:42.62,Main,,0,0,0,,Tóm lại, hình như là một dịch bệnh truyền nhiễm \Nkhông rõ nguyên nhân.
@@ -391,7 +391,7 @@ Dialogue: 9,0:18:45.92,0:18:48.23,Main,,0,0,0,,nhưng hậu quả của việc b
 Dialogue: 9,0:18:48.23,0:18:49.82,Main,,0,0,0,,Đúng thật.
 Dialogue: 9,0:18:49.82,0:18:50.98,Main,,0,0,0,,Cũng phải...
 Dialogue: 9,0:18:50.98,0:18:52.23,Main,,0,0,0,,Thế làm sao giờ?
-Dialogue: 9,0:18:52.57,0:18:56.36,Main,,0,0,0,,Oshino có nói gì về cách đối phó với \N Ong Lửa Vây không?
+Dialogue: 9,0:18:52.57,0:18:56.36,Main,,0,0,0,,Oshino có nói gì về cách đối phó với \N Ong Lửa Bủa Vây không?
 Dialogue: 9,0:18:57.44,0:18:59.07,Main,,0,0,0,,Chả rõ nữa.
 Dialogue: 9,0:18:59.07,0:19:01.48,Main,,0,0,0,,Khả năng là có,
 Dialogue: 9,0:19:01.48,0:19:04.24,Main,,0,0,0,,nhưng toàn nói cái kiểu thao thao bất tuyệt thôi.

@@ -16,7 +16,8 @@ Video File: ../raws/[OZR] Nisemonogatari - 03 (BD 1080p HEVC Opus) [9ACB9F84].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Active Line: 5
+Scroll Position: 357
+Active Line: 379
 Video Position: 27
 
 [V4+ Styles]
@@ -169,8 +170,8 @@ Dialogue: 0,0:07:26.47,0:07:27.97,Main,,0,0,0,,Kanji thì là...
 Dialogue: 0,0:07:27.97,0:07:30.43,Main,,0,0,0,,Không cần giải thích đâu.
 Dialogue: 0,0:07:30.93,0:07:33.35,Main,,0,0,0,,Chú có nghe qua cái tên đó rồi.
 Dialogue: 0,0:07:37.19,0:07:40.27,Main,,0,0,0,,Nhưng nếu chú là một cái "cây khô"...
-Dialogue: 0,0:07:40.27,0:07:42.73,GT,,0,0,0,,{\an7\pos(960,43.33)\blur0.6\bord0\shad0\fscx100\fscy100\p1\1a&H00&\c&H00004E&}m 646 131 l -646 131 l -646 -19 l 646 -19 m -643 -16 l -643 128 l 643 128 l 643 -16 
-Dialogue: 0,0:07:40.27,0:07:42.73,GT,,0,0,0,,{\an7\pos(960,43.33)\blur0.6\bord0\shad0\fscx100\fscy100\p1\1a&H84&\c&H000000&}m 643 128 l -643 128 l -643 -16 l 643 -16 
+Dialogue: 0,0:07:40.27,0:07:42.73,GT,,0,0,0,,{\an7\pos(960,43.33)\blur0.6\bord0\shad0\fscx100\fscy100\p1\1a&H00&\c&H00004E&}m 646 131 l -646 131 l -646 -19 l 646 -19 m -643 -16 l -643 128 l 643 128 l 643 -16
+Dialogue: 0,0:07:40.27,0:07:42.73,GT,,0,0,0,,{\an7\pos(960,43.33)\blur0.6\bord0\shad0\fscx100\fscy100\p1\1a&H84&\c&H000000&}m 643 128 l -643 128 l -643 -16 l 643 -16
 Dialogue: 1,0:07:40.27,0:07:42.73,GT,,0,0,0,,{\bord0\shad0\fs50\pos(960,46.33)\blur0.6\fscx109\fscy109}Trong {\c&H5BFF36&}tên của cả hai{\c} đều có chữ {\c&H5BFF36&}Cây{\c}, \Nxem lại {\c&HFFF422&}Kizu 01{\c}, lúc {\c&H5BFF36&}Hanekawa giải thích{\c} sẽ hiểu rõ hơn chỗ này.
 Dialogue: 0,0:07:40.27,0:07:42.73,Main,,0,0,0,,thì cậu là cái "cây non" ha.
 Dialogue: 0,0:07:44.86,0:07:48.45,Main,,0,0,0,,Nhân tiện, nếu chú có việc gì với nhà Kanbaru thì...
@@ -201,7 +202,7 @@ Dialogue: 0,0:09:21.19,0:09:23.29,Main,,0,0,0,,cũng hoàn toàn khác nhau.
 Dialogue: 0,0:09:26.34,0:09:27.25,Main,,0,0,0,,Bám theo thôi.
 Dialogue: 0,0:09:34.93,0:09:36.39,Main,,0,0,0,,{\i1}Chỉ là linh cảm thôi...
 Dialogue: 0,0:09:36.39,0:09:39.68,Main,,0,0,0,,{\i1}nhưng mình cảm giác không mấy tốt đẹp\N nếu dính tới ông ta.
-Dialogue: 0,0:09:40.68,0:09:43.40,Main,,0,0,0,,{\i1}Cảm giác xui xẻo,\N cùng bộ tang phục thê lương. 
+Dialogue: 0,0:09:40.68,0:09:43.40,Main,,0,0,0,,{\i1}Cảm giác xui xẻo,\N cùng bộ tang phục thê lương.
 Dialogue: 0,0:09:43.40,0:09:46.15,Main,,0,0,0,,{\i1}Nhưng không chỉ có thế.
 Dialogue: 0,0:09:46.15,0:09:48.23,Main,,0,0,0,,{\i1}Kiểu như... mang lại điềm gở.
 Dialogue: 0,0:09:48.78,0:09:49.74,Main,,0,0,0,,{\i1}Điềm gở...
@@ -415,7 +416,7 @@ Dialogue: 0,0:20:34.21,0:20:38.18,Main,,0,0,0,,Em không hèn nhát đến mức
 Dialogue: 0,0:20:38.18,0:20:42.10,Main,,0,0,0,,Cũng không tử tế đến mức\N chùn bước trước người yêu.
 Dialogue: 0,0:20:42.10,0:20:43.47,Main,,0,0,0,,Anh biết chứ.
 Dialogue: 0,0:20:45.27,0:20:47.10,Main,,0,0,0,,Thế nên anh mới yêu em.
-Dialogue: 0,0:20:48.60,0:20:52.27,Main,,0,0,0,nhatquan.nise02,Nếu anh muốn đi thì phải đánh bại được em!
+Dialogue: 0,0:20:48.60,0:20:52.27,Main,,0,0,0,nhatquan.nise02,Nếu anh muốn qua thì phải đánh bại được em!
 Dialogue: 0,0:20:52.27,0:20:54.26,Main,,0,0,0,,Araragi-kun liệu có làm nổi không?
 Dialogue: 0,0:20:54.26,0:20:55.40,Main,,0,0,0,,Được chứ.
 Dialogue: 0,0:20:55.40,0:20:58.70,Main,,0,0,0,@@@,Và câu đó sẽ không hiệu quả \N nếu em không làm tư thế "bắc cầu".
