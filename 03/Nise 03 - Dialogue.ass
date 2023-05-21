@@ -15,10 +15,10 @@ Audio File: ../raws/[OZR] Nisemonogatari - 03 (BD 1080p HEVC Opus) [9ACB9F84].mk
 Video File: ../raws/[OZR] Nisemonogatari - 03 (BD 1080p HEVC Opus) [9ACB9F84].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 357
-Active Line: 379
-Video Position: 27
+Video Zoom Percent: 0.250000
+Scroll Position: 384
+Active Line: 395
+Video Position: 30931
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -202,7 +202,7 @@ Dialogue: 0,0:09:21.19,0:09:23.29,Main,,0,0,0,,cũng hoàn toàn khác nhau.
 Dialogue: 0,0:09:26.34,0:09:27.25,Main,,0,0,0,,Bám theo thôi.
 Dialogue: 0,0:09:34.93,0:09:36.39,Main,,0,0,0,,{\i1}Chỉ là linh cảm thôi...
 Dialogue: 0,0:09:36.39,0:09:39.68,Main,,0,0,0,,{\i1}nhưng mình cảm giác không mấy tốt đẹp\N nếu dính tới ông ta.
-Dialogue: 0,0:09:40.68,0:09:43.40,Main,,0,0,0,,{\i1}Cảm giác xui xẻo,\N cùng bộ tang phục thê lương.
+Dialogue: 0,0:09:40.68,0:09:43.40,Main,,0,0,0,,{\i1}Cảm giác xui xẻo,\N cùng bộ tang phục u ám.
 Dialogue: 0,0:09:43.40,0:09:46.15,Main,,0,0,0,,{\i1}Nhưng không chỉ có thế.
 Dialogue: 0,0:09:46.15,0:09:48.23,Main,,0,0,0,,{\i1}Kiểu như... mang lại điềm gở.
 Dialogue: 0,0:09:48.78,0:09:49.74,Main,,0,0,0,,{\i1}Điềm gở...
@@ -432,7 +432,7 @@ Dialogue: 0,0:21:19.38,0:21:22.89,Main,,0,0,0,,Liệu em có thể tự hào khi
 Dialogue: 0,0:21:23.18,0:21:24.10,Main,,0,0,0,,Thôi chết!
 Dialogue: 0,0:21:24.10,0:21:25.14,Main,,0,0,0,,Ngầu quá đi mất!
 Dialogue: 0,0:21:26.39,0:21:28.52,Main,,0,0,0,,Em mà là con trai thì em đổ anh rồi.
-Dialogue: 0,0:21:28.52,0:21:30.10,Main,,0,0,0,,Làm ơn yêu kiểu con gái ấy!
+Dialogue: 0,0:21:28.52,0:21:30.10,Main,,0,0,0,,Làm ơn đổ kiểu con gái ấy!
 Dialogue: 0,0:21:30.44,0:21:31.35,Main,,0,0,0,,Vâng ạ.
 Dialogue: 0,0:21:37.97,0:21:39.07,Main,,0,0,0,,Alô?
 Dialogue: 0,0:21:39.07,0:21:40.49,Main,,0,0,0,,Hiện tớ đang bận.
