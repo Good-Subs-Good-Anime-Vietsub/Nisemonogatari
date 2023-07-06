@@ -19,7 +19,7 @@ Video File: ../raws/[OZR] Nisemonogatari - 01 (BD 1080p HEVC Opus) [56CF6A74].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 539
+Scroll Position: 546
 Active Line: 547
 Video Position: 10461
 
@@ -589,7 +589,7 @@ Dialogue: 10,0:24:05.26,0:24:06.28,Main,,0,0,0,,Vâng.
 Dialogue: 10,0:24:06.28,0:24:08.01,Main,,0,0,0,,Em sợ bị anh mắng lắm.
 Dialogue: 10,0:24:08.34,0:24:09.04,Main,,0,0,0,,Ha?
 Dialogue: 10,0:25:40.81,0:25:42.64,Main,,0,0,0,,{\i1}Là Nadeko đây!~{なーでこーだよー!}
-Dialogue: 10,0:25:42.64,0:25:46.86,Main,,0,0,0,,{\i1}Nay tiểu nữ sẽ mang đến cho các chư vị\N một phần xem trước thú vị!{今日もブラザーたちにご機嫌な予告をお届けするよ}
+Dialogue: 10,0:25:42.64,0:25:46.86,Main,,0,0,0,,{\i1}Nay tiểu nữ sẽ mang đến cho chư vị\N một phần xem trước thú vị!{今日もブラザーたちにご機嫌な予告をお届けするよ}
 Dialogue: 10,0:25:46.86,0:25:49.59,Main,,0,0,0,,{\i1}Chúng ta sẽ chơi Twister Game\N bằng cách viết Kanji.{ツイスターゲームを漢字で書こうシリーズ}
 Dialogue: 10,0:25:49.59,0:25:54.10,GT 2,,0,0,0,,{\i1\pos(1032,830)}(Bắn Hạ)
 Dialogue: 10,0:25:49.59,0:25:54.10,GT 2,,0,0,0,,{\i1\pos(1540,830)}(sutā-star)
