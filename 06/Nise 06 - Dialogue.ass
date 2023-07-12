@@ -17,9 +17,9 @@ Video File: ../raws/[OZR] Nisemonogatari - 06 (BD 1080p HEVC Opus) [4434234D].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 351
-Active Line: 363
-Video Position: 8236
+Scroll Position: 238
+Active Line: 243
+Video Position: 19459
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -283,10 +283,10 @@ Dialogue: 9,0:13:20.67,0:13:22.36,Main,,0,0,0,,Cái đó thì...
 Dialogue: 9,0:13:22.94,0:13:24.74,Main,,0,0,0,,chắc... không phải.
 Dialogue: 9,0:13:24.74,0:13:25.74,Main,,0,0,0,,{\i1}Cua...
 Dialogue: 9,0:13:26.15,0:13:28.45,Main,,0,0,0,,{\i1}Con Cua mà Senjōgahara đụng phải.
-Dialogue: 9,0:13:28.45,0:13:30.87,Main,,0,0,0,,{\i1}Chuyện này đã xảy ra vào cái lúc bị Cua ám.
-Dialogue: 9,0:13:31.58,0:13:37.71,Main,,0,0,0,,{\i1}Để mà nói... Senjōgahara thậm chí còn không \Nthù ghét Kaiki Deishū vào thời điểm đó.
-Dialogue: 9,0:13:37.71,0:13:40.46,Main,,0,0,0,,{\i1}Đây mới là bản chất của Quái Dị khi ấy.
-Dialogue: 9,0:13:40.96,0:13:44.05,Main,,0,0,0,,{\i1}Lẽ ra em ấy phải cáu giận, như một đứa trẻ.
+Dialogue: 9,0:13:28.45,0:13:30.87,Main,,0,0,0,,{\i1}Chuyện gì đã xảy ra vào cái lúc bị Cua ám đó...
+Dialogue: 9,0:13:31.58,0:13:37.71,Main,,0,0,0,,{\i1}Để mà nói... Senjōgahara thậm chí còn không thể\Nthù ghét Kaiki Deishū vào thời điểm đó.
+Dialogue: 9,0:13:37.71,0:13:40.46,Main,,0,0,0,,{\i1}Đây mới đúng là bản chất của Quái Dị khi ấy.
+Dialogue: 9,0:13:40.96,0:13:44.05,Main,,0,0,0,,{\i1}Chính ra em ấy phải cáu giận, như một đứa trẻ.
 Dialogue: 9,0:13:44.05,0:13:45.88,Main,,0,0,0,,{\i1}Như một đứa trẻ mất mẹ.
 Dialogue: 9,0:13:46.76,0:13:48.01,Main,,0,0,0,,Chỉ là nếu thế...
 Dialogue: 9,0:13:49.63,0:13:51.76,Main,,0,0,0,,Có một điều anh không hiểu.
