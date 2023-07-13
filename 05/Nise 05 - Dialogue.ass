@@ -19,8 +19,8 @@ Video File: ../raws/[OZR] Nisemonogatari - 05 (BD 1080p HEVC Opus) [E259F4FA].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 408
-Active Line: 429
+Scroll Position: 91
+Active Line: 93
 Video Position: 35344
 
 [V4+ Styles]
@@ -135,7 +135,7 @@ Dialogue: 0,0:05:24.69,0:05:30.30,Main,,0,0,0,,{\i1}Nhưng thực chất đây c
 Dialogue: 0,0:05:30.30,0:05:33.18,Main,,0,0,0,,{\i1}Nên có thể sẽ không đúng so với thực tế.
 Dialogue: 0,0:05:33.93,0:05:35.93,Main,,0,0,0,,Xin chào, tiểu thư!
 Dialogue: 0,0:05:35.93,0:05:37.44,Main,,0,0,0,,Chú là Kaiki.
-Dialogue: 2,0:05:37.71,0:05:40.19,GT 2,,0,0,0,,{\pos(875.33,944)}(Vỏ Sò)
+Dialogue: 2,0:05:37.71,0:05:40.19,GT 2,,0,0,0,,{\pos(875.33,944)}(Vỏ sò, đống xương xẩu)
 Dialogue: 2,0:05:37.71,0:05:40.19,GT 2,,0,0,0,,{\pos(1334.33,944)}(Cây Khô)
 Dialogue: 0,0:05:37.71,0:05:40.19,Main,,0,0,0,,{\c&H4546FF&}Kai{\c} trong {\c&H4546FF&}Kai{\c}dzuka, {\c&H4546FF&}Ki{\c} trong Kare{\c&H4546FF&}ki{\c}.
 Dialogue: 0,0:05:40.73,0:05:42.40,Main,,0,0,0,,Tiểu thư tên gì nào?

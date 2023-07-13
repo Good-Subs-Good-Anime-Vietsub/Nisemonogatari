@@ -16,8 +16,8 @@ Video File: ../raws/[OZR] Nisemonogatari - 03 (BD 1080p HEVC Opus) [9ACB9F84].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 375
-Active Line: 388
+Scroll Position: 124
+Active Line: 125
 Video Position: 30931
 
 [V4+ Styles]
@@ -162,7 +162,7 @@ Dialogue: 0,0:07:11.41,0:07:12.83,Main,,0,0,0,,Hãy trân trọng điều đó.
 Dialogue: 0,0:07:14.75,0:07:16.46,Main,,0,0,0,,Chú tên là Kaiki.
 Dialogue: 0,0:07:16.46,0:07:17.83,Main,,0,0,0,,Kaiki?
 Dialogue: 0,0:07:17.83,0:07:18.79,Main,,0,0,0,,Phải.
-Dialogue: 0,0:07:18.79,0:07:21.21,GT 2,,0,0,0,,{\pos(875.33,944)}(Vỏ Sò)
+Dialogue: 0,0:07:18.79,0:07:21.21,GT 2,,0,0,0,,{\pos(875.33,944)}(Vỏ sò, đống xương xẩu)
 Dialogue: 0,0:07:18.79,0:07:21.21,GT 2,,0,0,0,,{\pos(1334.33,944)}(Cây Khô)
 Dialogue: 0,0:07:18.79,0:07:21.21,Main,,0,0,0,,{\c&H4546FF&}Kai{\c} trong {\c&H4546FF&}Kai{\c}dzuka, {\c&H4546FF&}Ki{\c} trong Kare{\c&H4546FF&}ki{\c}.
 Dialogue: 0,0:07:23.34,0:07:24.97,Main,,0,0,0,,Tên {\i1}cháu{\i0} là Araragi.
