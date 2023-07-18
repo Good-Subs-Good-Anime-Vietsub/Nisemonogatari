@@ -18,8 +18,8 @@ Video File: ../raws/[OZR] Nisemonogatari - 10 (BD 1080p HEVC Opus) [A601654C].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 403
-Active Line: 415
+Scroll Position: 311
+Active Line: 317
 Video Position: 34379
 
 [V4+ Styles]
@@ -360,8 +360,8 @@ Dialogue: 0,0:17:49.52,0:17:51.84,Main,,0,0,0,,{\i1}thì tại sao Kagenui{*}-sa
 Dialogue: 0,0:17:53.53,0:17:56.72,Main,,0,0,0,,Đủ rồi đấy!~ \NỒn quá thể! Ồn quá thể! Ồn quá thể!
 Dialogue: 0,0:17:57.03,0:17:59.20,Main,,0,0,0,,Còn định bấm chuông tới bao giờ hả?
 Dialogue: 0,0:17:59.20,0:18:01.23,Main,,0,0,0,,Không biết người ta giả vờ đi vắng à!!
-Dialogue: 0,0:18:01.23,0:18:03.22,GT 2,,0,0,0,,(Unlimited Rulebook - chỗ này dịch theo bản gốc tiếng nhật)
-Dialogue: 0,0:18:01.23,0:18:03.22,Main,,0,0,0,,Quy Chuẩn Ngoại Lệ
+Dialogue: 0,0:18:01.23,0:18:03.22,GT 2,,0,0,0,,(Unlimited Rulebook - ở đây dịch theo giải nghĩa tiếng nhật)
+Dialogue: 0,0:18:01.23,0:18:03.22,Main,,0,0,0,,Quy Chuẩn Ngoại Lệ.
 Dialogue: 0,0:18:04.58,0:18:06.48,Main,,0,0,0,,Vừa nói vừa tạo kiểu chụp ảnh.
 Dialogue: 0,0:18:41.47,0:18:44.39,Main,phuongngu,0,0,0,,Bình tĩnh lại nào, anh giai cầm thú.
 Dialogue: 0,0:18:44.39,0:18:45.97,Main,phuongngu,0,0,0,,Việc gì phải nóng rứa.
