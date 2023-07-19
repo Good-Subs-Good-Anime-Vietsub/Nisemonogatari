@@ -18,9 +18,9 @@ Video File: ../raws/[OZR] Nisemonogatari - 10 (BD 1080p HEVC Opus) [A601654C].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 404
-Active Line: 417
-Video Position: 35679
+Scroll Position: 67
+Active Line: 69
+Video Position: 6679
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -110,14 +110,14 @@ Dialogue: 0,0:04:25.66,0:04:29.35,Main,,0,0,0,,Nếu Karen-chan \Nmà không v�
 Dialogue: 0,0:04:29.35,0:04:32.83,Main,,0,0,0,,thì chắc em cũng chẳng tin vào thứ mơ hồ\N như chính nghĩa đâu.
 Dialogue: 0,0:04:33.15,0:04:36.07,Main,,0,0,0,,Xét theo ý đó thì Onī-chan nói đúng.
 Dialogue: 0,0:04:36.07,0:04:38.57,Main,,0,0,0,,Chính nghĩa của em là hàng giả.
-Dialogue: 0,0:04:38.57,0:04:42.95,Main,,0,0,0,,Em quá dễ bị tác động bởi ý kiến ​​bên ngoài \Nđể rồi tự cho mình là chính nghĩa.
+Dialogue: 0,0:04:38.57,0:04:42.95,Main,,0,0,0,,Em quá dễ bị tác động bởi ý kiến bên ngoài\N để rồi tự cho mình là chính nghĩa.
 Dialogue: 0,0:04:43.63,0:04:46.91,Main,,0,0,0,,Nếu Karen-chan thực thi chính nghĩa\N cho người khác,
 Dialogue: 0,0:04:46.91,0:04:50.54,Main,,0,0,0,,thì em thực thi chính nghĩa\N bởi tác động của người khác.
 Dialogue: 0,0:04:50.54,0:04:53.73,Main,,0,0,0,,Ngay từ đầu tụi em đã khác nhau rồi.
 Dialogue: 0,0:04:53.73,0:04:55.79,Main,,0,0,0,,Nên là ấy, {*}Onī-chan{*Bro}...
 Dialogue: 0,0:04:55.79,0:05:01.49,Main,,0,0,0,,Gần đây, em càng ngày càng có suy nghĩ rằng\NHỏa Tỷ Muội cũng nên đến lúc {\i1}tàn{\i0} rồi.
 Dialogue: 0,0:05:01.49,0:05:03.72,Main,,0,0,0,,Nghe được đấy chứ, \Nkhông phải là không.
-Dialogue: 0,0:05:03.72,0:05:07.24,Main,,0,0,0,,Ngược lại anh còn thấy từ trước đến nay,\N hai đứa thân nhau quá thể ấy chứ.
+Dialogue: 0,0:05:03.72,0:05:07.24,Main,,0,0,0,,Ngược lại anh còn thấy từ trước đến nay,\N hai đứa hơi bị thân nhau quá ấy chứ.
 Dialogue: 0,0:05:09.27,0:05:12.50,Main,,0,0,0,,Em biết là không thể tránh khỏi...
 Dialogue: 0,0:05:12.81,0:05:18.00,Main,,0,0,0,,nhưng không biết khi Karen-chan lên cấp 3 \N có bắt nạt em như Onī-chan không nữa?
 Dialogue: 0,0:05:18.00,0:05:20.69,Main,,0,0,0,,Nói thế mang tiếng anh ra!
