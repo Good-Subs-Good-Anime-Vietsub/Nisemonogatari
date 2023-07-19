@@ -19,7 +19,6 @@ subs {
             incrementLayer(12)
         }
         
-        /*
         if (propertyExists("OP")) {
             from(get("OP")) {
                 syncSourceLine("sync")
@@ -33,7 +32,6 @@ subs {
                 syncTargetLine("edsync")
             }
         }
-        */
 
         from(getList("TS"))
 
