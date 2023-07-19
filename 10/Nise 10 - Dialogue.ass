@@ -18,9 +18,9 @@ Video File: ../raws/[OZR] Nisemonogatari - 10 (BD 1080p HEVC Opus) [A601654C].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 398
-Active Line: 412
-Video Position: 35362
+Scroll Position: 353
+Active Line: 375
+Video Position: 30595
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -414,9 +414,9 @@ Dialogue: 0,0:20:53.12,0:20:56.81,Main,,0,0,0,,Chẳng phải gì to tát,\N ch�
 Dialogue: 0,0:20:56.81,0:21:00.88,Main,,0,0,0,,Đối với đám các ngươi, \Nthời gian có lẽ không thành vấn đề.
 Dialogue: 0,0:21:01.44,0:21:02.90,Main,phuongngu,0,0,0,,Thôi được.
 Dialogue: 0,0:21:02.90,0:21:04.97,Main,phuongngu,0,0,0,,Như mi nói, ta sẽ tạm lui.
-Dialogue: 0,0:21:04.97,0:21:06.36,Main,phuongngu,0,0,0,,Hãy chuyển đến chỗ khác.
+Dialogue: 0,0:21:04.97,0:21:06.36,Main,phuongngu,0,0,0,,Hãy di dời đến chỗ khác.
 Dialogue: 0,0:21:06.81,0:21:10.13,Main,phuongngu,0,0,0,,Cho dù ta chẳng thèm quan tâm tới \Nthời gian lẫn địa điểm,
-Dialogue: 0,0:21:10.13,0:21:14.44,Main,phuongngu,0,0,0,,nhưng cũng không nỡ lòng nào \Nloại bỏ em gái trước mặt anh trai đâu. {Cần dịch lại theo từ địa phương}
+Dialogue: 0,0:21:10.13,0:21:14.44,Main,phuongngu,0,0,0,,nhưng cũng không nỡ lòng nào \Nloại bỏ em gái trước mặt anh trai mô. {Cần dịch lại theo từ địa phương}
 Dialogue: 0,0:21:14.44,0:21:15.61,Main,phuongngu,0,0,0,,Cơ mà ấy...
 Dialogue: 0,0:21:16.74,0:21:18.79,Main,phuongngu,0,0,0,,có phải em gái thật mô.
 Dialogue: 0,0:21:19.03,0:21:20.67,Main,,0,0,0,,{\i1}Không phải em gái thật?
