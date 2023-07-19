@@ -100,4 +100,59 @@ subs {
         onFaux(ErrorMode.WARN)
         out(get("muxout"))
     }
+
+    tasks(getList("ncs")) {
+        merge {
+            from(get("ncsubs"))
+
+            includeExtraData(false)
+            includeProjectGarbage(false)
+
+            scriptInfo {
+                title = "GSGA"
+                scaledBorderAndShadow = true
+            }
+        }
+        mux {
+            title(get("title"))
+
+            from(get("ncraws")) {
+                video {
+                    name("BDRip by DeadNews")
+                    lang("jpn")
+                    default(true)
+                }
+                audio(0) {
+                    name("Japanese 2.0 Opus")
+                    lang("jpn")
+                    default(true)
+                }
+                subtitles {
+                    include(false)
+                }
+                attachments {
+                    include(false)
+                }
+            }
+
+            from(merge.item()) {
+                tracks {
+                    name(get("group"))
+                    lang("vie")
+                    default(true)
+                    forced(false)
+                    compression(CompressionType.ZLIB)
+                }
+            }
+
+            attach(get("fonts")) {
+                includeExtensions("ttf", "otf", "ttc")
+            }
+            verifyFonts(true)
+            skipUnusedFonts(true)
+            onMissingGlyphs(ErrorMode.WARN)
+            onFaux(ErrorMode.WARN)
+            out(get("muxout"))
+        }
+    }
 }
