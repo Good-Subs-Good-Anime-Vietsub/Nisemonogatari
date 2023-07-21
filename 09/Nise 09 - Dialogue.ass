@@ -17,10 +17,10 @@ Audio File: ../raws/[OZR] Nisemonogatari - 09 (BD 1080p HEVC Opus) [A565D6C8].mk
 Video File: ../raws/[OZR] Nisemonogatari - 09 (BD 1080p HEVC Opus) [A565D6C8].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 419
-Active Line: 432
-Video Position: 35673
+Video Zoom Percent: 0.375000
+Scroll Position: 392
+Active Line: 415
+Video Position: 32065
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -229,9 +229,9 @@ Dialogue: 10,0:09:42.60,0:09:44.31,Main,,0,0,0,,Thôi đi thôi, {*}Nī-chan{*Br
 Dialogue: 10,0:09:53.45,0:09:55.95,GT 2,phuongngu,0,0,0,,(trong kanji của "cầm thú" có chữ "quỷ")
 Dialogue: 10,0:09:53.45,0:09:55.95,Main,phuongngu,0,0,0,,Anh giai {\i1}cầm thú{\i0} đằng kia ơi!
 Dialogue: 10,0:10:03.37,0:10:05.62,Main,phuongngu,0,0,0,,Có cái ni ta muốn hỏi.
-Dialogue: 10,0:10:05.62,0:10:06.71,Main,phuongngu,0,0,0,,Không kỳ đâu nhở?
+Dialogue: 10,0:10:05.62,0:10:06.71,Main,phuongngu,0,0,0,,Không kỳ đâu hầy?
 Dialogue: 10,0:10:08.34,0:10:11.88,Main,phuongngu,0,0,0,,Chả là... ta đang tìm trường luyện thi Eikō ấy.
-Dialogue: 10,0:10:11.88,0:10:14.71,Main,phuongngu,0,0,0,,Mi, có biết chỗ nớ ở mô?
+Dialogue: 10,0:10:11.88,0:10:14.71,Main,phuongngu,0,0,0,,Mi, có biết chỗ đó ở chi mô?
 Dialogue: 10,0:10:15.43,0:10:16.42,Main,,0,0,0,,Ờ thì...
 Dialogue: 10,0:10:17.14,0:10:19.43,Main,phuongngu,0,0,0,,Gì nào, anh giai cầm thú?
 Dialogue: 10,0:10:24.68,0:10:30.69,Main,phuongngu,0,0,0,,Thấy người khác gặp khó khăn thì phải tử tế chớ,\N hồi bé có được dạy không rứa?
@@ -242,11 +242,11 @@ Dialogue: 10,0:10:38.70,0:10:40.83,Main,,0,0,0,,{\i1}và việc tôi đè đầu
 Dialogue: 10,0:10:40.83,0:10:44.02,Main,,0,0,0,,{\i1}khả năng là người ta sẽ thấy tôi có vấn đề hơn.
 Dialogue: 10,0:10:44.02,0:10:45.95,Main,,0,0,0,,{\i1}Nên bị gọi là "cầm thú" cũng phải.
 Dialogue: 10,0:10:47.08,0:10:50.09,Main,phuongngu,0,0,0,,Tên ta là Kagenui Yozuru.
-Dialogue: 10,0:10:50.09,0:10:51.46,Main,phuongngu,0,0,0,,Không quen nhỉ?
+Dialogue: 10,0:10:50.09,0:10:51.46,Main,phuongngu,0,0,0,,Không quen hầy?
 Dialogue: 10,0:10:56.96,0:10:59.60,Main,,0,0,0,,Tên em là Araragi Koyomi.
 Dialogue: 10,0:10:59.60,0:11:01.72,Main,,0,0,0,,Em là Araragi Karen ạ.
 Dialogue: 10,0:11:04.43,0:11:07.90,Main,phuongngu,0,0,0,,Anh giai cầm thú và cô em gái ong bắp cày.
-Dialogue: 10,0:11:07.90,0:11:08.89,Main,phuongngu,0,0,0,,Hay nớ!
+Dialogue: 10,0:11:07.90,0:11:08.89,Main,phuongngu,0,0,0,,Hay đó!
 Dialogue: 10,0:11:10.81,0:11:12.98,Main,,0,0,0,,{\i1}Cô ta mới nói "ong bắp cày" à?
 Dialogue: 10,0:11:14.65,0:11:19.24,Main,phuongngu,0,0,0,,Mà xem ra cũng xong cả rồi,\N nên cũng nỏ bận tâm chi nữa.
 Dialogue: 10,0:11:19.24,0:11:21.49,Main,phuongngu,0,0,0,,Rứa... sao nào?
@@ -287,15 +287,15 @@ Dialogue: 10,0:12:51.75,0:12:53.33,Main,,0,0,0,,{\i1}Lỗ quá rồi!
 Dialogue: 10,0:12:53.33,0:12:56.17,Main,phuongngu,0,0,0,,Biết chửa, anh giai cầm thú?
 Dialogue: 10,0:12:56.17,0:12:58.04,Main,,0,0,0,,À rồi... ờ thì...
 Dialogue: 10,0:13:00.76,0:13:02.18,Main,phuongngu,0,0,0,,Ồ, ra rứa.
-Dialogue: 10,0:13:02.18,0:13:03.59,Main,phuongngu,0,0,0,,Ra là ở nớ à.
+Dialogue: 10,0:13:02.18,0:13:03.59,Main,phuongngu,0,0,0,,Ra là ở đó à.
 Dialogue: 10,0:13:03.59,0:13:07.64,Main,,0,0,0,,Nhưng mà, {*}Kagenui-san{*Ms. Kagenui}, chỗ đó phá sản rồi.
 Dialogue: 10,0:13:07.64,0:13:09.10,Main,,0,0,0,,Cô định làm gì ở đó à?
-Dialogue: 10,0:13:12.02,0:13:15.35,Main,phuongngu,0,0,0,,Cũng nỏ phải định làm gì...
+Dialogue: 10,0:13:12.02,0:13:15.35,Main,phuongngu,0,0,0,,Cũng chả phải định làm chi...
 Dialogue: 10,0:13:15.65,0:13:17.77,Main,phuongngu,0,0,0,,Trước tiên cứ làm cái bản doanh đã.
 Dialogue: 10,0:13:20.69,0:13:23.82,Main,phuongngu,0,0,0,,Vậy đa tạ, anh giai cầm thú.
 Dialogue: 10,0:13:26.24,0:13:27.74,Main,phuongngu,0,0,0,,À phải, à phải...
 Dialogue: 10,0:13:27.74,0:13:34.17,Main,phuongngu,0,0,0,,Mi, lát nữa có lẽ sẽ được một cô bé cao tầm ni\N hỏi câu y hệt.
-Dialogue: 10,0:13:34.17,0:13:38.58,Main,phuongngu,0,0,0,,Khi nớ, cũng tử tế với cô bé như với ta hé.
+Dialogue: 10,0:13:34.17,0:13:38.58,Main,phuongngu,0,0,0,,Khi đó, cũng tử tế với cô bé như với ta hầy.
 Dialogue: 10,0:13:49.06,0:13:50.24,Main,,0,0,0,,Quái gì thế?
 Dialogue: 10,0:13:50.24,0:13:52.71,Main,,0,0,0,,Nãy giờ cứ im re không, Karen{*}-chan{*}.
 Dialogue: 10,0:13:57.19,0:13:58.11,Main,,0,0,0,,Bị sao thế?
@@ -320,7 +320,7 @@ Dialogue: 10,0:14:50.91,0:14:54.50,Main,,0,0,0,,Ít cũng phải ngang ngửa v�
 Dialogue: 10,0:14:54.50,0:14:56.29,Main,,0,0,0,,Chứ em thì không đấu được.
 Dialogue: 10,0:14:56.29,0:14:59.50,Main,,0,0,0,,Ui giời~ Ui giời~ Karen{*}-san{*},\N nhụt chí thế à?
 Dialogue: 10,0:14:59.71,0:15:02.30,Main,,0,0,0,,Em biết lượng sức mình chứ.
-Dialogue: 10,0:15:02.30,0:15:03.96,Main,,0,0,0,,Miễn sao đối phương khôn ác là được.
+Dialogue: 10,0:15:02.30,0:15:03.96,Main,,0,0,0,,Miễn sao đối phương không ác là được.
 Dialogue: 10,0:15:04.92,0:15:06.09,Main,,0,0,0,,Hiểu rồi.
 Dialogue: 10,0:15:06.72,0:15:11.84,Main,,0,0,0,,Tuy nhiên, vẫn chưa chắc được là ác hay không?
 Dialogue: 10,0:15:17.31,0:15:21.06,Main,,0,0,0,,{\i1}Sau đó, tôi đã đưa Karen \Nđến nhà Kanbaru an toàn,
@@ -404,7 +404,7 @@ Dialogue: 10,0:19:21.97,0:19:24.39,Main,,0,0,0,,Làm người mà phát ngôn c�
 Dialogue: 10,0:19:24.85,0:19:26.94,Main,,0,0,0,,Mà bảo này, Hachikuji...
 Dialogue: 10,0:19:26.94,0:19:30.89,Main,,0,0,0,,Anh đang cặp với Senjōgahara, \Nvà anh {\i1}yêu{\i0} Hanekawa.
 Dialogue: 10,0:19:31.81,0:19:34.61,Main,,0,0,0,,Nhưng cưới thì... phải là em.
-Dialogue: 10,0:19:36.73,0:19:41.24,Main,,0,0,0,,Làm ơn đừng cướp đi \Nlời cầu hôn đầu đời quý giá của em, Araragi-san
+Dialogue: 10,0:19:36.73,0:19:41.24,Main,,0,0,0,,Làm ơn đừng cướp đi \Nlời cầu hôn đầu đời quý giá của em, Araragi-san!
 Dialogue: 10,0:19:41.24,0:19:43.70,Main,,0,0,0,,Mà làm ơn đừng có \Ncầu hôn học sinh tiểu học.
 Dialogue: 10,0:19:44.64,0:19:45.91,Main,,0,0,0,,{\i1}Không đoái hoài gì sao?
 Dialogue: 10,0:19:45.91,0:19:50.37,Main,,0,0,0,,{\i1}Phải làm sao để truyền lửa trái tim mình\N tới được trái tim Hachikuji đây?
@@ -459,7 +459,7 @@ Dialogue: 10,0:22:06.76,0:22:09.89,GT 2,,0,0,0,,{\i1}(nhắc lại: trong từ "
 Dialogue: 10,0:22:06.76,0:22:09.89,Main,,0,0,0,,{\i1}Cô ấy không chỉ gọi mình là "cầm thú"...
 Dialogue: 10,0:22:09.89,0:22:12.35,Main,,0,0,0,,{\i1}mà hình như còn nói gì đó về Karen nữa.
 Dialogue: 10,0:22:13.98,0:22:17.36,Main,,0,0,0,,{\i1}Anh giai cầm thú và cô em gái ong bắp cày.
-Dialogue: 10,0:22:17.36,0:22:18.60,Main,,0,0,0,,{\i1}Hay nớ!
+Dialogue: 10,0:22:17.36,0:22:18.60,Main,,0,0,0,,{\i1}Hay đó!
 Dialogue: 10,0:22:18.90,0:22:20.86,Main,,0,0,0,,{\i1}Cầm thú?!... Quỷ?
 Dialogue: 10,0:22:22.61,0:22:24.90,Main,,0,0,0,,{\i1}Quỷ... quỷ hút máu...
 Dialogue: 10,0:22:25.24,0:22:26.45,Main,,0,0,0,,{\i1}Ma cà rồng.

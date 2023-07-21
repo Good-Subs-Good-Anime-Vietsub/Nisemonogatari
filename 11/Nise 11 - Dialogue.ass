@@ -17,10 +17,10 @@ Audio File: ../raws/[OZR] Nisemonogatari - 11 (BD 1080p HEVC Opus) [CE457E13].mk
 Video File: ../raws/[OZR] Nisemonogatari - 11 (BD 1080p HEVC Opus) [CE457E13].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 401
-Active Line: 419
-Video Position: 34573
+Video Zoom Percent: 0.375000
+Scroll Position: 351
+Active Line: 374
+Video Position: 30624
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -207,26 +207,26 @@ Dialogue: 0,0:08:55.40,0:08:56.49,Main,,0,0,0,,Ra vậy.
 Dialogue: 0,0:08:57.22,0:08:58.01,Main,,0,0,0,,Cảm ơn nha.
 Dialogue: 0,0:08:59.61,0:09:01.24,Main,,0,0,0,,Khách sáo làm gì.
 Dialogue: 0,0:09:31.05,0:09:34.24,Main,phuongngu,0,0,0,,Xem ra chúng ta có \Nkhách không mời mà tới.
-Dialogue: 0,0:09:34.24,0:09:38.64,Main,phuongngu,0,0,0,,Nếu là Oshino-kun sẽ kiểu,\N "Chà, cậu tới muộn đấy, ta đợi mỏi cả cổ",
-Dialogue: 0,0:09:38.64,0:09:41.14,Main,phuongngu,0,0,0,,khả năng là sẽ nói câu đó.
-Dialogue: 0,0:09:41.14,0:09:45.27,Main,phuongngu,0,0,0,,Nhưng bọn ta thì không thân thiện thế đâu.
+Dialogue: 0,0:09:34.24,0:09:38.64,Main,phuongngu,0,0,0,,Nếu là Oshino-kun sẽ kiểu,\N "Chà, cậu tới muộn rứa, ta đợi mỏi cả cổ",
+Dialogue: 0,0:09:38.64,0:09:41.14,Main,phuongngu,0,0,0,,khả năng là sẽ nói câu rứa.
+Dialogue: 0,0:09:41.14,0:09:45.27,Main,phuongngu,0,0,0,,Nhưng bọn ta thì không thân thiện thế mô.
 Dialogue: 0,0:09:46.37,0:09:47.14,Main,,0,0,0,,Oshino...
 Dialogue: 0,0:09:48.09,0:09:51.77,Main,,0,0,0,,Oshino ngay từ đầu, \Nkhông hề hừng hực sát khí như vậy.
 Dialogue: 0,0:09:55.00,0:09:56.03,Main,phuongngu,0,0,0,,Đúng rồi đấy.
-Dialogue: 0,0:09:56.03,0:09:57.89,Main,phuongngu,0,0,0,,Oshino-kun là thế mà.
+Dialogue: 0,0:09:56.03,0:09:57.89,Main,phuongngu,0,0,0,,Oshino-kun là rứa mà.
 Dialogue: 0,0:09:57.89,0:09:59.66,Main,phuongngu,0,0,0,,Không lệch đi đâu được.
-Dialogue: 0,0:09:59.66,0:10:02.45,Main,phuongngu,0,0,0,,Thế... có việc gì?
+Dialogue: 0,0:09:59.66,0:10:02.45,Main,phuongngu,0,0,0,,Thế... có việc mô?
 Dialogue: 0,0:10:02.45,0:10:05.58,Main,phuongngu,0,0,0,,Để đỡ tốn thời gian\N thì bọn ta sẵn sàng nghênh chiến.
-Dialogue: 0,0:10:05.58,0:10:07.25,Main,phuongngu,0,0,0,,Dễ hiểu mà ha.
-Dialogue: 0,0:10:07.25,0:10:09.24,Main,phuongngu,0,0,0,,Bọn ta ủng hộ bảo lực.
+Dialogue: 0,0:10:05.58,0:10:07.25,Main,phuongngu,0,0,0,,Dễ hiểu mà hầy.
+Dialogue: 0,0:10:07.25,0:10:09.24,Main,phuongngu,0,0,0,,Bọn ta ủng hộ bạo lực.
 Dialogue: 0,0:10:09.24,0:10:12.71,Main,phuongngu,0,0,0,,Và may thay, song tấu bọn ta cũng\N một con người, một Quái Dị.
 Dialogue: 0,0:10:12.71,0:10:14.28,Main,phuongngu,0,0,0,,Mi và ta.
-Dialogue: 0,0:10:14.28,0:10:17.04,Main,phuongngu,0,0,0,,Cựu Heart-under-blade và Yotsugi{*}-chan{*}.
-Dialogue: 0,0:10:17.04,0:10:19.97,Main,phuongngu,0,0,0,,Chia cặp như vậy, hai bên ổn cả chứ?
+Dialogue: 0,0:10:14.28,0:10:17.04,Main,phuongngu,0,0,0,,Cựu Heart-under-blade-chan và Yotsugi{*}-chan{*}.
+Dialogue: 0,0:10:17.04,0:10:19.97,Main,phuongngu,0,0,0,,Chia cặp như rứa, hai bên ổn cả chứ?
 Dialogue: 0,0:10:22.54,0:10:23.39,Main,phuongngu,0,0,0,,Không vừa lòng à?
 Dialogue: 0,0:10:23.39,0:10:26.27,Main,phuongngu,0,0,0,,Vậy thì, ta và Heart-under-blade.
-Dialogue: 0,0:10:26.27,0:10:29.77,Main,phuongngu,0,0,0,,Mi và Yotsugi, nghe được đấy chứ.
-Dialogue: 0,0:10:29.77,0:10:34.44,Main,phuongngu,0,0,0,,Tuy chỉ là hàng giả,\N nhưng dù sao chính con bé đã thổi bay em gái mi.
+Dialogue: 0,0:10:26.27,0:10:29.77,Main,phuongngu,0,0,0,,Mi và Yotsugi, nghe được đấy tề.
+Dialogue: 0,0:10:29.77,0:10:34.44,Main,phuongngu,0,0,0,,Tuy em gái mi chỉ là hàng giả,\N nhưng dù sao chính con bé là kẻ đã thổi bay nớ.
 Dialogue: 0,0:10:35.17,0:10:37.58,Main,,0,0,0,,Không, chia cặp như lúc đầu đi.
 Dialogue: 0,0:10:38.45,0:10:39.32,Main,,0,0,0,,Được rồi.
 Dialogue: 0,0:10:39.32,0:10:40.80,Main,,0,0,0,,Vậy cô bé kia,
@@ -250,11 +250,11 @@ Dialogue: 0,0:11:25.03,0:11:30.41,Main,,0,0,0,,Vậy, để bên này làm tình
 Dialogue: 0,0:11:30.41,0:11:32.29,Main,,0,0,0,,Vừa nói vừa tạo kiểu chụp ảnh.
 Dialogue: 0,0:11:37.17,0:11:41.44,Main,,0,0,0,,Kagenui-san, cô với Oshino có quan hệ gì?
 Dialogue: 0,0:11:42.03,0:11:46.18,Main,,0,0,0,,Cô quen Oshino Meme, \Nthằng cha mặc áo aloha đó sao?
-Dialogue: 0,0:11:47.06,0:11:48.58,Main,phuongngu,0,0,0,,Cái gì cơ?!
+Dialogue: 0,0:11:47.06,0:11:48.58,Main,phuongngu,0,0,0,,Cái chi mô?!
 Dialogue: 0,0:11:48.58,0:11:51.94,Main,phuongngu,0,0,0,,Oshino-kun, cu cậu vẫn còn mặc cái áo aloha á?
-Dialogue: 0,0:11:51.94,0:11:54.79,Main,phuongngu,0,0,0,,Tưởng đâu chỉ là {\i1}đóng giả{\i0} thôi chứ,
-Dialogue: 0,0:11:54.79,0:11:59.15,Main,phuongngu,0,0,0,,đằng này đến tận giờ vẫn còn mặc\N thì chắc phải có niềm tin cháy bỏng ha.
-Dialogue: 0,0:12:00.03,0:12:03.46,Main,phuongngu,0,0,0,,Mà nói mấy chuyện này chả để làm gì cả.
+Dialogue: 0,0:11:51.94,0:11:54.79,Main,phuongngu,0,0,0,,Tưởng đâu chỉ là {\i1}đóng giả{\i0} thôi chớ,
+Dialogue: 0,0:11:54.79,0:11:59.15,Main,phuongngu,0,0,0,,đằng nì đến tận giờ vẫn còn mặc\N thì chắc phải có niềm tin cháy bỏng hầy.
+Dialogue: 0,0:12:00.03,0:12:03.46,Main,phuongngu,0,0,0,,Mà nói mấy chuyện này chả để làm chi cả.
 Dialogue: 0,0:12:03.46,0:12:05.41,Main,phuongngu,0,0,0,,Chỉ là bạn cũ thôi.
 Dialogue: 0,0:12:05.73,0:12:07.99,Main,phuongngu,0,0,0,,Ta và Oshino{*}-kun{*} và Kaiki{*}-kun{*}...
 Dialogue: 0,0:12:07.99,0:12:10.01,Main,phuongngu,0,0,0,,là bạn cùng khóa thời đại học.
@@ -263,7 +263,7 @@ Dialogue: 0,0:12:13.47,0:12:14.29,Main,,0,0,0,,{\i1}Kaiki?
 Dialogue: 0,0:12:14.29,0:12:15.13,Main,,0,0,0,,{\i1}Kaiki?!
 Dialogue: 0,0:12:15.13,0:12:16.42,Main,,0,0,0,,Kaiki ư?!
 Dialogue: 0,0:12:17.04,0:12:18.05,Main,,0,0,0,,Kaiki ý cô là...
-Dialogue: 0,0:12:18.05,0:12:19.55,Main,,0,0,0,,Kaiki Deishuu?
+Dialogue: 0,0:12:18.05,0:12:19.55,Main,,0,0,0,,Kaiki Deishū?
 Dialogue: 0,0:12:19.55,0:12:21.51,Main,phuongngu,0,0,0,,Phải phải, Kaiki{*}-kun{*}.
 Dialogue: 0,0:12:21.51,0:12:23.80,Main,phuongngu,0,0,0,,Cùng chuyên nghành, cùng câu lạc bộ.
 Dialogue: 0,0:12:23.80,0:12:27.97,Main,phuongngu,0,0,0,,Cùng với 1 senpai khóa trên,\N bọn ta chơi shogi 4 người.
@@ -277,7 +277,7 @@ Dialogue: 0,0:12:50.55,0:12:52.79,Main,,0,0,0,,Toàn bộ từ ông mà ra!
 Dialogue: 0,0:12:55.79,0:12:57.29,Main,,0,0,0,,Kagenui{*}-san{*}.
 Dialogue: 0,0:12:57.67,0:12:59.55,Main,,0,0,0,,Tôi là {\i1}đồng minh của em gái{\i0}.
 Dialogue: 0,0:13:01.01,0:13:03.20,Main,phuongngu,0,0,0,,Cô em gái đó chỉ là hàng giả thôi.
-Dialogue: 0,0:13:03.91,0:13:05.63,Main,phuongngu,0,0,0,,Có phải thật đâu.
+Dialogue: 0,0:13:03.91,0:13:05.63,Main,phuongngu,0,0,0,,Có phải thật mô.
 Dialogue: 0,0:13:06.00,0:13:10.27,Main,phuongngu,0,0,0,,Khi mi nhận ra rằng cô em gái \Nmà mi tin tưởng là hàng giả,
 Dialogue: 0,0:13:10.27,0:13:14.14,Main,phuongngu,0,0,0,,liệu mi có còn yêu em gái mình như trước không?
 Dialogue: 0,0:13:14.14,0:13:15.14,Main,,0,0,0,,Yêu chứ sao không.
@@ -292,33 +292,33 @@ Dialogue: 0,0:13:39.33,0:13:42.56,Main,phuongngu,0,0,0,,nên ta từ bỏ việc
 Dialogue: 0,0:13:42.56,0:13:46.09,Main,phuongngu,0,0,0,,Ta khác với Oshino{*}-kun{*} và Kaiki{*}-kun{*} mà.
 Dialogue: 0,0:13:46.09,0:13:48.09,Main,phuongngu,0,0,0,,Chỉ dùng nắm đấm để nói chuyện thôi.
 Dialogue: 0,0:13:48.72,0:13:50.30,Main,phuongngu,0,0,0,,Nhưng... Thế nhưng...
-Dialogue: 0,0:13:50.30,0:13:51.95,Main,phuongngu,0,0,0,,Tính sao đây nhở!
+Dialogue: 0,0:13:50.30,0:13:51.95,Main,phuongngu,0,0,0,,Tính sao đây hầy!
 Dialogue: 0,0:13:52.55,0:13:54.39,Main,phuongngu,0,0,0,,Kể cả mi có bằng lòng đi nữa...
 Dialogue: 0,0:14:08.91,0:14:11.62,Main,phuongngu,0,0,0,,Kể cả mi có bằng lòng đi nữa...
-Dialogue: 0,0:14:11.62,0:14:14.58,Main,phuongngu,0,0,0,,nhưng gia đình mi thì sao hả?!
-Dialogue: 0,0:14:19.92,0:14:22.67,Main,phuongngu,0,0,0,,Mi từng có được bất tử trước đây,
+Dialogue: 0,0:14:11.62,0:14:14.58,Main,phuongngu,0,0,0,,nhưng gia đình mi thì răng?!
+Dialogue: 0,0:14:19.92,0:14:22.67,Main,phuongngu,0,0,0,,Mi từng có được bất tử trước ni,
 Dialogue: 0,0:14:23.08,0:14:28.68,Main,phuongngu,0,0,0,,nên có thể vì thế mà mi\N thấy ổn với một cô em gái Quái Dị Bất Tử hàng giả.
-Dialogue: 0,0:14:28.68,0:14:33.97,Main,phuongngu,0,0,0,,Nhưng còn... gia đình mi thì sao hả?\N Họ biết phải làm gì với Quái Dị đây?
+Dialogue: 0,0:14:28.68,0:14:33.97,Main,phuongngu,0,0,0,,Nhưng còn... gia đình mi thì răng?\N Họ biết phải làm chi với Quái Dị đây?
 Dialogue: 0,0:14:36.31,0:14:38.72,Main,phuongngu,0,0,0,,Ví dụ như Karen{*}-chan{*} chẳng hạn?
 Dialogue: 0,0:14:38.72,0:14:43.35,Main,phuongngu,0,0,0,,Nếu nó biết được em gái mình là Quái Dị,
 Dialogue: 0,0:14:43.35,0:14:45.98,Main,phuongngu,0,0,0,,liệu nó có thể trả lời giống mi không?
-Dialogue: 0,0:14:45.98,0:14:47.67,Main,phuongngu,0,0,0,,Rồi còn má mi nữa.
+Dialogue: 0,0:14:45.98,0:14:47.67,Main,phuongngu,0,0,0,,Rồi còn mệ mi nữa.{má thường dùng ở miền nam}
 Dialogue: 0,0:14:47.67,0:14:51.51,Main,phuongngu,0,0,0,,Nếu bà ấy biết đứa con bà mang nặng đẻ đau là\N Yêu ma quỷ quái,
 Dialogue: 0,0:14:51.51,0:14:54.30,Main,phuongngu,0,0,0,,liệu bà có thể trả lời giống mi không?
 Dialogue: 0,0:14:54.30,0:14:56.78,Main,phuongngu,0,0,0,,Rồi còn cha mi nữa.
-Dialogue: 0,0:15:02.71,0:15:05.53,Main,phuongngu,0,0,0,,Đấy còn chưa thèm nói tới chính bản thân nó.
-Dialogue: 0,0:15:05.53,0:15:07.46,Main,phuongngu,0,0,0,,Nếu chính nó, thứ hàng giả đó,
-Dialogue: 0,0:15:07.46,0:15:11.93,Main,phuongngu,0,0,0,,biết mình là Quái Dị, \N liệu nó có thể tiếp tục sống như trước không?
-Dialogue: 0,0:15:13.97,0:15:16.39,Main,phuongngu,0,0,0,,Vẫn còn may là hiện giờ nó chưa biết.
-Dialogue: 0,0:15:16.79,0:15:18.64,Main,phuongngu,0,0,0,,Nhưng, nếu nó phát hiện ra,
-Dialogue: 0,0:15:18.64,0:15:20.89,Main,phuongngu,0,0,0,,liệu bản thân nó có tổn thương không?
-Dialogue: 0,0:15:20.89,0:15:25.32,Main,phuongngu,0,0,0,,Thứ Yêu ma quỷ quái Bất tử thì không thể nào\N thích nghi được với môi trường xung quanh.
+Dialogue: 0,0:15:02.71,0:15:05.53,Main,phuongngu,0,0,0,,Đấy còn chưa thèm nói tới chính bản thân nớ.
+Dialogue: 0,0:15:05.53,0:15:07.46,Main,phuongngu,0,0,0,,Nếu chính nớ, thứ hàng giả đó,
+Dialogue: 0,0:15:07.46,0:15:11.93,Main,phuongngu,0,0,0,,biết mình là Quái Dị, \N liệu nớ có thể tiếp tục sống như trước không?
+Dialogue: 0,0:15:13.97,0:15:16.39,Main,phuongngu,0,0,0,,Vẫn còn may là hiện chừ nớ chưa biết.
+Dialogue: 0,0:15:16.79,0:15:18.64,Main,phuongngu,0,0,0,,Nhưng, nếu nớ phát hiện ra,
+Dialogue: 0,0:15:18.64,0:15:20.89,Main,phuongngu,0,0,0,,liệu bản thân nớ có tổn thương không?
+Dialogue: 0,0:15:20.89,0:15:25.32,Main,phuongngu,0,0,0,,Thứ Yêu ma quỷ quái Bất tử thì không thể nào\N thích nghi được với môi trường xung quanh mô.
 Dialogue: 0,0:15:25.32,0:15:28.07,Main,phuongngu,0,0,0,,Mi hiểu điều đó hơn ai hết.
-Dialogue: 0,0:15:28.07,0:15:32.37,Main,phuongngu,0,0,0,,Hay là, với cơ thể phi nhân tính đó,\N mi vẫn định để nó trở thành đồng minh chính nghĩa?
-Dialogue: 0,0:15:32.88,0:15:35.33,Main,phuongngu,0,0,0,,Cái gì mà Hỏa Tỷ Muội, phải không nhở?
-Dialogue: 0,0:15:35.84,0:15:39.08,Main,phuongngu,0,0,0,,Nhưng nghĩ mà xem, \Nnếu Quái Dị Bất Tử đối đầu với con người,
-Dialogue: 0,0:15:39.08,0:15:42.73,Main,phuongngu,0,0,0,,thử hỏi nó sẽ tàn nhẫn và hống hách\N đến mức nào đây?
-Dialogue: 0,0:15:43.32,0:15:46.63,Main,phuongngu,0,0,0,,Cả điều đó nữa, mi cũng hiểu hơn ai hết!
+Dialogue: 0,0:15:28.07,0:15:32.37,Main,phuongngu,0,0,0,,Hay là, với cơ thể phi nhân tính đó,\N mi vẫn định để nớ trở thành đồng minh chính nghĩa?
+Dialogue: 0,0:15:32.88,0:15:35.33,Main,phuongngu,0,0,0,,Cái gì mà Hỏa Tỷ Muội, phải không hầy?
+Dialogue: 0,0:15:35.84,0:15:39.08,Main,phuongngu,0,0,0,,Nhưng mi nghĩ mà xem, \Nnếu Quái Dị Bất Tử đối đầu với con người,
+Dialogue: 0,0:15:39.08,0:15:42.73,Main,phuongngu,0,0,0,,thử hỏi nó sẽ tàn nhẫn và hống hách\N đến mức mô?
+Dialogue: 0,0:15:43.32,0:15:46.63,Main,phuongngu,0,0,0,,Cả điều tê nữa, mi cũng hiểu hơn ai hết!
 Dialogue: 0,0:15:49.59,0:15:53.63,Main,phuongngu,0,0,0,,Công việc của bọn ta là \Nthu xếp trước khi nó xảy ra.
 Dialogue: 0,0:15:53.63,0:15:58.18,Main,phuongngu,0,0,0,,Mặc kệ mi nhận thức ra sao, mặc cho ý thức chính nghĩa thế nào, \Nđó là việc của mi.
 Dialogue: 0,0:15:58.18,0:16:01.94,Main,phuongngu,0,0,0,,Đừng có áp đặt lý tưởng của mình\N lên người khác!
@@ -327,13 +327,13 @@ Dialogue: 0,0:16:12.35,0:16:15.01,Main,phuongngu,0,0,0,,Ta bắt đầu thấy l
 Dialogue: 0,0:16:15.01,0:16:16.45,Main,phuongngu,0,0,0,,Cùng đi kiểm tra xem nào!
 Dialogue: 0,0:16:25.75,0:16:27.75,Main,,0,0,0,,Đang làm cái trò gì thế?
 Dialogue: 0,0:16:27.75,0:16:29.42,Main,,0,0,0,,Thưa chủ nhân!
-Dialogue: 0,0:16:32.83,0:16:36.79,Main,phuongngu,0,0,0,,Gì đây trời~ \NRõ mạnh miệng mà giờ lại như này là sao?
-Dialogue: 0,0:16:36.79,0:16:39.89,Main,phuongngu,0,0,0,,Coi bộ em ăn hành quá nhỉ, Yotsugi.
+Dialogue: 0,0:16:32.83,0:16:36.79,Main,phuongngu,0,0,0,,Gì đây trời~ \NRõ mạnh miệng mà bây chừ lại như này là sao?
+Dialogue: 0,0:16:36.79,0:16:39.89,Main,phuongngu,0,0,0,,Coi bộ em ăn hành quá rứa, Yotsugi.
 Dialogue: 0,0:16:39.89,0:16:43.30,Main,,0,0,0,,Em chuẩn bị lội ngược dòng kinh điển đây này.
 Dialogue: 0,0:16:43.30,0:16:46.75,Main,,0,0,0,,Khỏi cần lo không đâu làm gì, {*}Onē-chan{*Sis}.{checked subs}
 Dialogue: 0,0:16:47.48,0:16:49.64,Main,,0,0,0,,Vừa nói vừa tạo kiểu chụp ảnh.
 Dialogue: 0,0:16:49.64,0:16:51.15,Main,phuongngu,0,0,0,,Rồi rồi.
-Dialogue: 0,0:16:51.15,0:16:55.16,Main,phuongngu,0,0,0,,Nhưng cũng đến lúc nhường sân khấu \Ncho Onē-chan này rồi.
+Dialogue: 0,0:16:51.15,0:16:55.16,Main,phuongngu,0,0,0,,Nhưng cũng đến lúc nhường sân khấu \Ncho Onē-chan nầy rồi.
 Dialogue: 0,0:16:55.16,0:16:57.25,Main,phuongngu,0,0,0,,Cựu Heart-under-blade,
 Dialogue: 0,0:16:57.25,0:17:00.08,Main,phuongngu,0,0,0,,Xem ra chung kết là giữa ta và mi.
 Dialogue: 0,0:17:16.72,0:17:18.60,Main,,0,0,0,,Không, đánh đấm gì.
@@ -377,8 +377,8 @@ Dialogue: 0,0:19:07.91,0:19:11.05,Main,phuongngu,0,0,0,,Tư tưởng của Mạn
 Dialogue: 0,0:19:11.47,0:19:14.84,Main,phuongngu,0,0,0,,Ông có nói, "nhân chi sơ tính bản thiện".
 Dialogue: 0,0:19:14.84,0:19:15.70,Main,phuongngu,0,0,0,,Nó đó.
 Dialogue: 0,0:19:16.26,0:19:17.09,Main,,0,0,0,,Ừm thì...
-Dialogue: 0,0:19:17.37,0:19:20.00,Main,phuongngu,0,0,0,,Nếu thuyết tính bản thiện là \Nmột triết lý duy tâm,
-Dialogue: 0,0:19:20.00,0:19:22.09,Main,phuongngu,0,0,0,,thì thuyết tính bản ác là\Nmột triết lý duy vật.
+Dialogue: 0,0:19:17.37,0:19:20.00,Main,phuongngu,0,0,0,@@@,Nếu thuyết tính bản thiện là \Nlý thuyết luận,
+Dialogue: 0,0:19:20.00,0:19:22.09,Main,phuongngu,0,0,0,@@@,thì thuyết tính bản ác là\Nhiện thực luận.
 Dialogue: 0,0:19:22.09,0:19:24.82,Main,phuongngu,0,0,0,,Bản chất con người là ham muốn.
 Dialogue: 0,0:19:24.82,0:19:27.33,Main,phuongngu,0,0,0,,Con người thường bị ham muốn chi phối.
 Dialogue: 0,0:19:27.33,0:19:30.06,Main,phuongngu,0,0,0,,Đó là tư tưởng thẳng mà thật của Tuân Tử.
@@ -388,7 +388,7 @@ Dialogue: 0,0:19:36.83,0:19:37.61,Main,,0,0,0,,...đã ác?
 Dialogue: 0,0:19:37.61,0:19:38.55,Main,phuongngu,0,0,0,,Phải.
 Dialogue: 0,0:19:38.55,0:19:41.15,Main,phuongngu,0,0,0,,Vì vậy khi một người làm việc thiện,
 Dialogue: 0,0:19:41.15,0:19:44.70,Main,phuongngu,0,0,0,,thì đó không xuất phát từ bản chất,\N mà chỉ là dối lừa thôi.
-Dialogue: 0,0:19:45.18,0:19:46.58,Main,phuongngu,0,0,0,,Ông ta tuyên bố thế.
+Dialogue: 0,0:19:45.18,0:19:46.58,Main,phuongngu,0,0,0,,Ông ta tuyên bố rứa.
 Dialogue: 0,0:19:47.08,0:19:49.62,Main,phuongngu,0,0,0,,Thiện là dối, thiện là giả,
 Dialogue: 0,0:19:49.62,0:19:51.62,Main,phuongngu,0,0,0,,chỉ đạo đức giả mới làm được điều thiện.
 Dialogue: 0,0:19:51.62,0:19:52.62,Main,,0,0,0,,Đạo đức giả?
@@ -405,9 +405,9 @@ Dialogue: 0,0:20:24.21,0:20:28.16,Main,phuongngu,0,0,0,,Còn Oshino-kun theo ta 
 Dialogue: 0,0:20:28.48,0:20:31.16,Main,phuongngu,0,0,0,,Nhưng Kaiki{*}-kun{*} thì lại nói khác,
 Dialogue: 0,0:20:31.60,0:20:35.42,Main,phuongngu,0,0,0,,hàng giả đáng giá hơn nhiều so với hàng thật.
 Dialogue: 0,0:20:35.74,0:20:41.67,Main,phuongngu,0,0,0,,Bởi vì hàng giả có chủ đích trở thành hàng thật,\N ý chí đó khiến nó còn thật hơn cả hàng thật.
-Dialogue: 0,0:20:43.33,0:20:46.91,Main,phuongngu,0,0,0,,Kaiki{*}-kun{*} nhìn sao cũng là dạng\N vô lại tép riu,
+Dialogue: 0,0:20:43.33,0:20:46.91,Main,phuongngu,0,0,0,,Kaiki{*}-kun{*} nhìn răng cũng là \Nloại vô lại tép riu,
 Dialogue: 0,0:20:46.91,0:20:49.06,Main,phuongngu,0,0,0,,những cũng phát biểu được câu hay phải biết.
-Dialogue: 0,0:20:49.06,0:20:55.06,Main,phuongngu,0,0,0,,Miễn cương mà nói thì,\N đây chắc là bài học rút ra từ vụ này cho ta.
+Dialogue: 0,0:20:49.06,0:20:55.06,Main,phuongngu,0,0,0,,Miễn cưỡng mà nói thì,\N ni chắc là bài học rút ra từ vụ này cho ta.
 Dialogue: 0,0:20:55.06,0:20:57.56,Main,phuongngu,0,0,0,,Một bài học kéo dài 10 năm.
 Dialogue: 0,0:21:00.36,0:21:01.50,Main,phuongngu,0,0,0,,Về thôi.
 Dialogue: 0,0:21:01.50,0:21:02.69,Main,phuongngu,0,0,0,,Bên ta thua rồi.
@@ -415,13 +415,13 @@ Dialogue: 0,0:21:06.26,0:21:08.83,Main,,0,0,0,,N-Này, Kagenui{*}-san{*}?
 Dialogue: 0,0:21:08.83,0:21:09.89,Main,phuongngu,0,0,0,,Mất hứng rồi.
 Dialogue: 0,0:21:09.89,0:21:11.60,Main,phuongngu,0,0,0,,Về đây.
 Dialogue: 0,0:21:11.60,0:21:16.67,Main,phuongngu,0,0,0,,Làm ta cảm thấy kỳ kỳ kiểu gì ấy,\N nên chả có tâm trạng mà đánh đấm đâu.
-Dialogue: 0,0:21:17.27,0:21:19.44,Main,phuongngu,0,0,0,,Unlimited Rulebook.
+Dialogue: 0,0:21:17.27,0:21:19.44,Main,phuongngu,0,0,0,,Quy Chuẩn Ngoại Lệ.
 Dialogue: 0,0:21:20.05,0:21:22.05,Main,phuongngu,0,0,0,,Bắt chim thì được, chớ bắt chim còn trong tổ.
 Dialogue: 0,0:21:23.05,0:21:27.25,Main,phuongngu,0,0,0,,Ta sẽ xem em gái mi như là một ngoại lệ\N với chính nghĩa của ta.
 Dialogue: 0,0:21:27.25,0:21:30.85,Main,phuongngu,0,0,0,,Mi cũng coi như là người dìu dắt,\N cố mà chỉ bảo cho tốt.
 Dialogue: 0,0:21:31.91,0:21:36.85,Main,phuongngu,0,0,0,,Tóm lại thì mi... vốn từ đầu đã không nghiêm túc\N đánh một trận với bọn ta đúng chứ.
 Dialogue: 0,0:21:38.21,0:21:39.61,Main,,0,0,0,,Không nghiêm túc là sao?
-Dialogue: 0,0:21:39.61,0:21:42.61,Main,phuongngu,0,0,0,,Ta không cảm thấy chút sát khí nào.
+Dialogue: 0,0:21:39.61,0:21:42.61,Main,phuongngu,0,0,0,,Ta không cảm thấy chút sát khí chi mô.
 Dialogue: 0,0:21:42.61,0:21:44.96,Main,phuongngu,0,0,0,,Tuy ta cảm thấy mi không hề nương tay,
 Dialogue: 0,0:21:44.96,0:21:47.61,Main,phuongngu,0,0,0,,nhưng thành thật mà nói, ta bị xuống tinh thần.
 Dialogue: 0,0:21:48.33,0:21:51.23,Main,,0,0,0,,Nếu chị không cảm thấy sát khí từ tôi,
