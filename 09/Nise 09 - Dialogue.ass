@@ -18,9 +18,9 @@ Video File: ../raws/[OZR] Nisemonogatari - 09 (BD 1080p HEVC Opus) [A565D6C8].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 342
-Active Line: 360
-Video Position: 28214
+Scroll Position: 392
+Active Line: 415
+Video Position: 32065
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -459,7 +459,7 @@ Dialogue: 10,0:22:06.76,0:22:09.89,GT 2,,0,0,0,,{\i1}(nhắc lại: trong từ "
 Dialogue: 10,0:22:06.76,0:22:09.89,Main,,0,0,0,,{\i1}Cô ấy không chỉ gọi mình là "cầm thú"...
 Dialogue: 10,0:22:09.89,0:22:12.35,Main,,0,0,0,,{\i1}mà hình như còn nói gì đó về Karen nữa.
 Dialogue: 10,0:22:13.98,0:22:17.36,Main,,0,0,0,,{\i1}Anh giai cầm thú và cô em gái ong bắp cày.
-Dialogue: 10,0:22:17.36,0:22:18.60,Main,,0,0,0,,{\i1}Hay dó!
+Dialogue: 10,0:22:17.36,0:22:18.60,Main,,0,0,0,,{\i1}Hay đó!
 Dialogue: 10,0:22:18.90,0:22:20.86,Main,,0,0,0,,{\i1}Cầm thú?!... Quỷ?
 Dialogue: 10,0:22:22.61,0:22:24.90,Main,,0,0,0,,{\i1}Quỷ... quỷ hút máu...
 Dialogue: 10,0:22:25.24,0:22:26.45,Main,,0,0,0,,{\i1}Ma cà rồng.
