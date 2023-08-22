@@ -22,9 +22,9 @@ Video File: ../raws/[OZR] Nisemonogatari - 04 (BD 1080p HEVC Opus) [4A64DC78].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 440
-Active Line: 443
-Video Position: 34004
+Scroll Position: 321
+Active Line: 338
+Video Position: 26439
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -230,7 +230,7 @@ Dialogue: 9,0:10:00.55,0:10:02.11,Main,,0,0,0,,À, nói gì á?
 Dialogue: 9,0:10:02.11,0:10:04.60,Main,,0,0,0,,Chuyện là... Tsukihi-chan đã gửi một email cho cậu.
 Dialogue: 9,0:10:04.60,0:10:07.63,Main,,0,0,0,,Nhưng lạ là không thấy cậu phản hồi ngay.
 Dialogue: 9,0:10:07.63,0:10:10.08,Main,,0,0,0,,Nên là tớ gọi luôn.
-Dialogue: 9,0:10:11.34,0:10:15.30,Main,,0,0,0,,Dù có hơi độc mồm độc miệng,\N nhưng hai em ấy vẫn tin tưởng cậu ha.
+Dialogue: 9,0:10:11.34,0:10:15.30,Main,,0,0,0,,Dù có hơi độc mồm độc miệng,\N nhưng hai em ấy vẫn tin tưởng anh giai ha.
 Dialogue: 9,0:10:15.30,0:10:19.73,Main,,0,0,0,,À thì, nói chung \Ntớ cũng hiểu được phần nào rồi.
 Dialogue: 9,0:10:19.73,0:10:23.30,Main,,0,0,0,,Nhưng làm thế nào mà \Ncậu thuyết phục được  Senjōgahara thế?
 Dialogue: 9,0:10:23.30,0:10:24.31,Main,,0,0,0,,Có gì đâu.
@@ -379,11 +379,11 @@ Dialogue: 9,0:18:07.02,0:18:09.59,Main,,0,0,0,,Nếu coi đây là một dạng 
 Dialogue: 9,0:18:09.59,0:18:12.94,Main,,0,0,0,,thì chắc nên gọi là Quái Dị hen.
 Dialogue: 9,0:18:13.82,0:18:17.13,Main,,0,0,0,,Mà, có lẽ nên hỏi Senjōgahara để biết thêm.
 Dialogue: 9,0:18:17.13,0:18:19.47,Main,,0,0,0,,Đúng hơn là buộc phải hỏi.
-Dialogue: 9,0:18:19.47,0:18:21.70,Main,,0,0,0,,Có điều vấn đề bây giờ là—
-Dialogue: 9,0:18:22.70,0:18:25.20,Main,,0,0,0,,Mà trước mặt cô\N chắc cũng khỏi cần đề phòng.
+Dialogue: 9,0:18:19.47,0:18:21.70,Main,,0,0,0,,Còn vấn đề bây giờ là—nó—
+Dialogue: 9,0:18:22.71,0:18:25.20,Main,,0,0,0,,Mà chắc không cần\N ăn nói giữ kẽ trước mặt cô.
 Dialogue: 9,0:18:25.20,0:18:26.45,Main,,0,0,0,,Karen-chan...
 Dialogue: 9,0:18:26.46,0:18:30.79,Main,,0,0,0,,Làm thế nào để chữa khỏi bệnh \Ncho Karen-chan... đây?
-Dialogue: 9,0:18:32.16,0:18:36.21,Main,,0,0,0,,Shinobu, \Ncô có thể ăn được bệnh của Karen-chan không?
+Dialogue: 9,0:18:32.16,0:18:36.21,Main,,0,0,0,,Shinobu, cô có thể \Năn được bệnh của Karen-chan không?
 Dialogue: 9,0:18:38.43,0:18:39.59,Main,,0,0,0,,Đáng tiếc là không.
 Dialogue: 9,0:18:40.59,0:18:43.73,Main,,0,0,0,,Căn bệnh chỉ đơn thuần là hậu quả hen.
 Dialogue: 9,0:18:43.73,0:18:45.92,Main,,0,0,0,,Thừa nhận là ong cũng ngon nghẻ đấy,

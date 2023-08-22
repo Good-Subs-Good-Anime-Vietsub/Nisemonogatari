@@ -19,9 +19,9 @@ Video File: ../raws/[OZR] Nisemonogatari - 05 (BD 1080p HEVC Opus) [E259F4FA].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 444
-Active Line: 452
-Video Position: 35996
+Scroll Position: 236
+Active Line: 238
+Video Position: 18305
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -277,7 +277,8 @@ Dialogue: 0,0:12:30.10,0:12:31.60,Main,,0,0,0,,Thì cái vụ...
 Dialogue: 0,0:12:31.60,0:12:34.48,Main,,0,0,0,,tớ truy ra thủ phạm ấy.
 Dialogue: 0,0:12:34.48,0:12:38.06,Main,,0,0,0,,Để rồi Karen-chan thành ra thế kia,\N cậu có bực không?
 Dialogue: 0,0:12:38.06,0:12:40.32,Main,,0,0,0,,Bực thì không bực...
-Dialogue: 0,0:12:40.32,0:12:46.24,Main,,0,0,0,,nhưng nếu cậu muốn hỗ trợ Hỏa Tỷ Muội,\N thì ít cậu cũng nên nói cho tớ biết.
+Dialogue: 0,0:12:40.32,0:12:43.43,Main,,0,0,0,,nhưng nếu cậu muốn hỗ trợ Hỏa Tỷ Muội,
+Dialogue: 0,0:12:43.43,0:12:46.24,Main,,0,0,0,,thì ít ra cũng nên nói cho tớ biết.
 Dialogue: 0,0:12:46.24,0:12:49.78,Main,,0,0,0,,Cơ mà, Araragi-kun mà biết \Nthì sẽ bực đúng không?
 Dialogue: 0,0:12:49.78,0:12:54.66,Main,,0,0,0,,Chưa kể, việc tớ muốn kết bạn với Karen-chan và Tsukihi-chan\N là quyền tự do của tớ chứ?
 Dialogue: 0,0:12:54.66,0:12:55.92,Main,,0,0,0,,Đúng thật.
