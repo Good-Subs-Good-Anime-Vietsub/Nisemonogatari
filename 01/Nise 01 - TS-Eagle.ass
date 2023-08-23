@@ -11,13 +11,12 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [OZR] Nisemonogatari - 01 (BD 1080p HEVC Opus) [56CF6A74].mkv
-Video File: [OZR] Nisemonogatari - 01 (BD 1080p HEVC Opus) [56CF6A74].mkv
+Audio File: ../raws/[OZR] Nisemonogatari - 01 (BD 1080p HEVC Opus) [56CF6A74].mkv
+Video File: ../raws/[OZR] Nisemonogatari - 01 (BD 1080p HEVC Opus) [56CF6A74].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Active Line: 3
-Video Position: 22123
+Video Zoom Percent: 0.875000
+Video Position: 22106
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,7 +26,7 @@ Style: Black and Red,VL DellaRobbia BT,30,&H00FFFFFF,&H000000FF,&H00000000,&H000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:15:21.98,0:15:22.71,Signs,add.sign,0,0,0,,{\fnGentium Basic\fs50\blur1.2\pos(1423.43,561.43)\b0}Lối thoát
+Dialogue: 10,0:15:21.98,0:15:22.71,Signs,add.sign,0,0,0,,{\fnGentium Basic\fs50\blur1.5\pos(1423.43,561.43)\b0}Lối thoát
 Dialogue: 9,0:15:21.98,0:15:22.71,Signs,add.sign,0,0,0,,{\fnGentium Basic\fs50\blur5\pos(1423.43,561.43)\c&HFFFFFF&\1a&H64&\b0}Lối thoát
-Dialogue: 10,0:15:22.71,0:15:23.36,Signs,add.sign,0,0,0,,{\fnGentium Basic\fs50\blur1.2\pos(1423.43,561.43)\t(0,629,1,\c&H0F100E&)\b0}Lối thoát
+Dialogue: 10,0:15:22.71,0:15:23.36,Signs,add.sign,0,0,0,,{\fnGentium Basic\fs50\blur1.5\pos(1423.43,561.43)\t(0,629,1,\c&H0F100E&)\b0}Lối thoát
 Dialogue: 9,0:15:22.71,0:15:23.36,Signs,add.sign,0,0,0,,{\fnGentium Basic\fs50\blur5\pos(1423.43,561.43)\c&HFFFFFF&\1a&H64&\t(0,629,1,\c&H0F100E&)\b0}Lối thoát

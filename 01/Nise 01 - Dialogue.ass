@@ -18,10 +18,10 @@ Audio File: ../raws/[OZR] Nisemonogatari - 01 (BD 1080p HEVC Opus) [56CF6A74].mk
 Video File: ../raws/[OZR] Nisemonogatari - 01 (BD 1080p HEVC Opus) [56CF6A74].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 677
-Active Line: 686
-Video Position: 10461
+Video Zoom Percent: 0.375000
+Scroll Position: 431
+Active Line: 454
+Video Position: 28639
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -91,7 +91,7 @@ Dialogue: 10,0:01:58.75,0:02:00.39,Main,,0,0,0,,À mà, bảo này, Gahara{*}-sa
 Dialogue: 10,0:02:01.65,0:02:03.56,Main,,0,0,0,,Anh là anh đói rồi ấy...
 Dialogue: 10,0:02:03.56,0:02:05.47,Main,,0,0,0,,với cả khát nữa...
 Dialogue: 10,0:02:05.47,0:02:07.52,Main,,0,0,0,,Hay là ta kiếm chỗ nào quanh đây ăn đi?
-Dialogue: 10,0:02:08.14,0:02:11.54,Main,,0,0,0,,Em biết ngay cái đồ bọ chét thảm hại nhà anh\N sẽ đòi ăn đòi uống mà,
+Dialogue: 10,0:02:08.14,0:02:11.54,Main,,0,0,0,,Em biết ngay cái đồ bọ chét nhà anh\N sẽ đòi ăn đòi uống mà,
 Dialogue: 10,0:02:11.54,0:02:13.90,Main,,0,0,0,,nên đã chuẩn bị trước kha khá rồi đây.
 Dialogue: 10,0:02:13.90,0:02:15.52,Main,,0,0,0,,À thế à.
 Dialogue: 10,0:02:15.52,0:02:17.89,Main,,0,0,0,,Thế mang anh ít nước đi, nước!
@@ -126,7 +126,7 @@ Dialogue: 10,0:03:30.02,0:03:33.03,Main,,0,0,0,,"Chú chim say xỉn" không ph�
 Dialogue: 10,0:03:41.15,0:03:42.45,Main,,0,0,0,,Liếm đê~
 Dialogue: 10,0:03:43.96,0:03:45.14,Main,,0,0,0,,Sao thế?
 Dialogue: 10,0:03:45.14,0:03:46.86,Main,,0,0,0,,Anh đang khát mà đúng không?
-Dialogue: 10,0:03:46.86,0:03:48.77,Main,,0,0,0,,Thế thì lè cãi lưỡi bẩn của anh ra,
+Dialogue: 10,0:03:46.86,0:03:48.77,Main,,0,0,0,,Thế thì lè cái lưỡi bẩn của anh ra,
 Dialogue: 10,0:03:48.77,0:03:51.08,Main,,0,0,0,,và liếm nó như một con hươu cao cổ đi.
 Dialogue: 10,0:03:51.08,0:03:52.97,Main,,0,0,0,,Anh bảo này, Senjōgahara.
 Dialogue: 10,0:03:52.97,0:03:53.99,Main,,0,0,0,,Sao thế?
@@ -179,7 +179,7 @@ Dialogue: 10,0:05:36.21,0:05:38.78,Main,,0,0,0,,Em sẽ thay tã cho Araragi-kun
 Dialogue: 10,0:05:39.28,0:05:40.66,Main,,0,0,0,,Anh còn chưa biết sao?
 Dialogue: 10,0:05:40.66,0:05:43.54,Main,,0,0,0,,Em yêu anh mà, Araragi{*}-kun{*}.
 Dialogue: 10,0:05:43.54,0:05:46.04,Main,,0,0,0,,Yêu anh nhiều đến mức cho dù cả người anh bẩn,
-Dialogue: 10,0:05:46.04,0:05:48.08,Main,,0,0,0,,em cũng không do dự mà ôm trầm lấy.
+Dialogue: 10,0:05:46.04,0:05:48.08,Main,,0,0,0,,em cũng không do dự mà ôm chầm lấy.
 Dialogue: 10,0:05:48.08,0:05:51.57,Main,,0,0,0,,Từ hô hấp cho tới bài tiết, \Ntoàn bộ ngóc ngách trên cơ thể anh,
 Dialogue: 10,0:05:51.57,0:05:54.88,Main,,0,0,0,,em lo bằng sạch, đến bộ não em cũng lo.
 Dialogue: 10,0:05:54.88,0:05:56.36,Main,,0,0,0,,{\i1}Nặng tình khiếp luôn!
@@ -213,7 +213,7 @@ Dialogue: 10,0:08:45.71,0:08:48.54,Main,,0,0,0,,Thế... em gái lớn đi đâu
 Dialogue: 10,0:08:48.54,0:08:50.22,Main,,0,0,0,,Đã bảo là không gây chuyện gì rồi.
 Dialogue: 10,0:08:50.22,0:08:53.01,Main,,0,0,0,,Nói đúng hơn thì chị ấy đi gỡ chuyện cho người ta.
 Dialogue: 10,0:08:53.01,0:08:54.60,Main,,0,0,0,,Thế là có chuyện rồi.
-Dialogue: 10,0:08:55.59,0:08:59.90,Main,,0,0,0,,Này nhá {*}Onī-chan{*Bro}, học sinh cấp 2 gây lộn thì kệ nó đi,\N anh chúi mũi vào làm cái gì.
+Dialogue: 10,0:08:55.59,0:08:59.90,Main,,0,0,0,,Này nhá {*}Onī-chan{*Bro}, học sinh cấp 2 gây lộn thì kệ đi,\N anh chúi mũi vào làm gì.
 Dialogue: 10,0:08:59.90,0:09:01.04,Main,,0,0,0,,Vớ vẩn thật.
 Dialogue: 10,0:09:01.04,0:09:04.98,Main,,0,0,0,,Gây lộn ấy nhé,\N tự thân nó cũng là một cách giao tiếp tốt.
 Dialogue: 10,0:09:04.98,0:09:09.11,Main,,0,0,0,,Không cơ mà, \Ntuy nói kiểu đó nghe cũng hợp lý ra phết.
@@ -277,7 +277,7 @@ Dialogue: 10,0:11:13.36,0:11:13.53,Main,,0,0,30,,lại
 Dialogue: 10,0:11:13.53,0:11:13.69,Main,,0,0,30,,là
 Dialogue: 10,0:11:13.69,0:11:13.95,Main,,0,0,30,,như
 Dialogue: 10,0:11:13.95,0:11:14.45,Main,,0,0,30,,này
-Dialogue: 10,0:11:14.45,0:11:17.86,Main,,0,0,0,,Em không thô lỗ đến mức \Nlàm kỳ đà cản mũi chuyện yêu đường của bạn bè.
+Dialogue: 10,0:11:14.45,0:11:17.86,Main,,0,0,0,,Em không thô lỗ đến mức \Nlàm kỳ đà cản mũi chuyện yêu đương của bạn bè.
 Dialogue: 10,0:11:17.86,0:11:20.07,Main,,0,0,0,,Cho dù đó có là tình yêu đơn phương.
 Dialogue: 10,0:11:20.89,0:11:21.58,Main,,0,0,0,,Yêu?
 Dialogue: 10,0:11:21.58,0:11:24.40,Main,,0,0,0,,Đừng có nói thô thiển thế chứ.
@@ -495,7 +495,7 @@ Dialogue: 10,0:19:44.67,0:19:46.71,Main,,0,0,0,,Hãy thực hiện động tác 
 Dialogue: 10,0:19:47.18,0:19:48.34,Main,,0,0,0,,Được thôi.
 Dialogue: 10,0:19:48.34,0:19:50.09,Main,,0,0,0,,Can đảm để trồng cây chuối.
 Dialogue: 22,0:19:53.34,0:19:54.36,Main,,0,0,0,,Eo ôi~
-Dialogue: 10,0:19:54.36,0:19:58.72,Main,,0,0,0,,Một người tầm tuổi anh mà lại đi trồng cây chuối \Ntrông chán thực sự.
+Dialogue: 10,0:19:54.36,0:19:58.72,Main,,0,0,0,,Một người tầm tuổi anh mà lại đi trồng cây chuối, \Ntrông chán thực sự.
 Dialogue: 10,0:19:58.72,0:20:00.10,Main,,0,0,0,,Thôi đủ rồi đấy ạ.
 Dialogue: 10,0:20:01.60,0:20:04.35,Main,,0,0,0,,Thôi nào, có thể dừng được rồi đấy, Araragi{*}-san{*}.
 Dialogue: 10,0:20:05.85,0:20:08.22,Main,,0,0,0,,Thật đấy, thôi đi mà, Araragi{*}-san{*}.
@@ -572,7 +572,7 @@ Dialogue: 10,0:23:15.19,0:23:18.43,Main,,0,0,0,,Lỡ như em lại gặp chuyệ
 Dialogue: 10,0:23:18.43,0:23:21.64,Main,,0,0,0,,thì liệu lúc đó anh có tới cứu em không?
 Dialogue: 10,0:23:21.64,0:23:22.97,Main,,0,0,0,,Cứu chứ.
 Dialogue: 10,0:23:22.97,0:23:24.01,Main,,0,0,0,,Đương nhiên rồi còn.
-Dialogue: 10,0:23:24.01,0:23:27.14,Main,,0,0,0,,Anh sẽ không để cho ai khác \Nhẫng tay trên cứu em đâu.
+Dialogue: 10,0:23:24.01,0:23:27.14,Main,,0,0,0,,Anh sẽ không để cho ai khác \Nnẫng tay trên cứu em đâu.
 Dialogue: 10,0:23:27.14,0:23:28.89,Main,,0,0,0,,Liệu em có thể tâm sự với anh không?
 Dialogue: 10,0:23:28.89,0:23:32.14,Main,,0,0,0,,Đúng hơn... nếu em mà không tới tâm sự với anh\N là anh mắng em đó.
 Dialogue: 10,0:23:33.62,0:23:35.39,Main,,0,0,0,,Em biết Araragi-san sẽ nói vậy mà.
