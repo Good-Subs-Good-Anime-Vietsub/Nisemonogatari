@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Nisemonogatari - 03 (BD 1080p HEVC Opus) [9ACB9F84].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 393
-Active Line: 399
-Video Position: 31173
+Scroll Position: 470
+Active Line: 480
+Video Position: 8111
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -515,8 +515,8 @@ Dialogue: 0,0:05:38.27,0:05:41.81,Signs,,0,0,0,gradient @acc 10,{\clip(100,842,1
 Dialogue: 0,0:05:38.27,0:05:41.81,Signs,,0,0,0,gradient @acc 10,{\clip(100,846,1800,850)\pos(949.7,839.4)\fad(480,808)\c&H51C998&\bord9\blur4.5\fnVL TelingaterDisplay\fs160\fsp6\3c&H3BCFAB&\an2\fscx70\fscy90}Hàng Giả Tạo Truyện
 Dialogue: 0,0:05:38.27,0:05:41.81,Signs,,0,0,0,gradient @acc 10,{\clip(100,850,1800,854)\pos(949.7,839.4)\fad(480,808)\c&H51C998&\bord9\blur4.5\fnVL TelingaterDisplay\fs160\fsp6\3c&H38D0AD&\an2\fscx70\fscy90}Hàng Giả Tạo Truyện
 Dialogue: 1,0:05:38.27,0:05:41.81,Signs,,0,0,0,gradient @acc 10,{\fad(480,808)\c&HF4F8EF&\blur0.8\fnVL TelingaterDisplay\fs160\pos(949.7,839.4)\fsp6\an2\fscx70\fscy90}Hàng Giả Tạo Truyện
-Dialogue: 1,0:05:38.27,0:05:41.81,Signs,credit,0,0,0,,{\fad(480,808)\c&H404040&\blur0.8\fnVL TelingaterDisplay\fs160\fs60\fsp6\an2\pos(960,207.4)\fscx51\fscy59}PHỤ ĐỀ ĐƯỢC THỰC HIỆN BỞI{\fs90} GSGA {\fs60}THANKS TO{\fs90} MTBB\N\N{\fs60}DỊCH{\fs90} KiOZ {\fs60}TYPESET{\fs90} KiOZ/moch1oka/Eagle {\fs60}QC{\fs90} KiOZ/moch1oka
-Dialogue: 1,0:05:38.27,0:05:41.81,Signs,credit,0,0,0,,{\fad(480,808)\c&H404040&\blur0.8\fnVL TelingaterDisplay\fs160\fs60\fsp6\an2\pos(961,207.4)\fscx51\fscy59}PHỤ ĐỀ ĐƯỢC THỰC HIỆN BỞI{\fs90} GSGA {\fs60}THANKS TO{\fs90} MTBB\N\N{\fs60}DỊCH{\fs90} KiOZ {\fs60}TYPESET{\fs90} KiOZ/moch1oka/Eagle {\fs60}QC{\fs90} KiOZ/moch1oka
+Dialogue: 1,0:05:38.27,0:05:41.81,Signs,credit,0,0,0,,{\fad(480,808)\c&H404040&\blur0.8\fnVL TelingaterDisplay\fs160\fs60\fsp6\an2\pos(960,207.4)\fscx51\fscy59}PHỤ ĐỀ ĐƯỢC THỰC HIỆN BỞI{\fs90} GSGA {\fs60}THANKS TO{\fs90} MTBB\N\N{\fs60}DỊCH{\fs90} KiOZ {\fs60}PHƯƠNG NGỮ{\fs90} tuilakhanh {\fs60}TYPESET{\fs90} KiOZ/moch1oka/Eagle {\fs60}QC{\fs90} KiOZ/moch1oka
+Dialogue: 1,0:05:38.27,0:05:41.81,Signs,credit,0,0,0,,{\fad(480,808)\c&H404040&\blur0.8\fnVL TelingaterDisplay\fs160\fs60\fsp6\an2\pos(961,207.4)\fscx51\fscy59}PHỤ ĐỀ ĐƯỢC THỰC HIỆN BỞI{\fs90} GSGA {\fs60}THANKS TO{\fs90} MTBB\N\N{\fs60}DỊCH{\fs90} KiOZ {\fs60}PHƯƠNG NGỮ{\fs90} tuilakhanh {\fs60}TYPESET{\fs90} KiOZ/moch1oka/Eagle {\fs60}QC{\fs90} KiOZ/moch1oka
 Dialogue: 1,0:04:27.03,0:04:31.08,Hitagi OP2 - fill,,0,0,0,,{\fad(120,0)\c&HC397F5&\blur0.7}Ngay lúc này đây, dù em được ở bên cạnh anh,
 Dialogue: 0,0:04:27.03,0:04:31.08,Hitagi OP2 - stroke,,0,0,0,,{\fad(120,0)\c&HFFFEFF&\3c&HFFFEFF&\bord4\blur3}Ngay lúc này đây, dù em được ở bên cạnh anh,
 Dialogue: 1,0:04:31.08,0:04:32.65,Hitagi OP2 - fill,,0,0,0,,{\fad(0,1280)\c&HFCFCFA&\blur0.7}Ngay lúc này đây, dù em được ở bên cạnh anh,

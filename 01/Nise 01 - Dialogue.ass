@@ -19,9 +19,9 @@ Video File: ../raws/[OZR] Nisemonogatari - 01 (BD 1080p HEVC Opus) [56CF6A74].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 512
-Active Line: 523
-Video Position: 33179
+Scroll Position: 677
+Active Line: 686
+Video Position: 10461
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -500,7 +500,7 @@ Dialogue: 10,0:19:58.72,0:20:00.10,Main,,0,0,0,,Thôi đủ rồi đấy ạ.
 Dialogue: 10,0:20:01.60,0:20:04.35,Main,,0,0,0,,Thôi nào, có thể dừng được rồi đấy, Araragi{*}-san{*}.
 Dialogue: 10,0:20:05.85,0:20:08.22,Main,,0,0,0,,Thật đấy, thôi đi mà, Araragi{*}-san{*}.
 Dialogue: 10,0:20:08.22,0:20:10.61,Main,,0,0,0,,Đứng cạnh anh nhìn thế này \Nem còn xấu hổ hơn ấy.
-Dialogue: 10,0:20:10.91,0:20:12.54,Main,,0,0,0,,Sao anh cứng đầu thể nhở.
+Dialogue: 10,0:20:10.91,0:20:12.54,Main,,0,0,0,,Sao anh cứng đầu thế nhở.
 Dialogue: 10,0:20:12.54,0:20:16.99,Main,,0,0,0,,Cứ như thể trồng cây chuối\N là lời hứa với một người bạn đã khuất vậy.
 Dialogue: 10,0:20:16.99,0:20:18.48,Main,,0,0,0,,Không, nói sao nhỉ...
 Dialogue: 10,0:20:18.48,0:20:22.35,Main,,0,0,0,,Anh chỉ nghĩ là khi trồng cây chuối, \Nthì từ góc độ này,
@@ -726,5 +726,5 @@ Dialogue: 0,0:07:16.29,0:07:19.83,Signs,,0,0,0,gradient @acc 10,{\clip(100,842,1
 Dialogue: 0,0:07:16.29,0:07:19.83,Signs,,0,0,0,gradient @acc 10,{\clip(100,846,1800,850)\pos(949.7,839.4)\fad(480,808)\c&H51C998&\bord9\blur4.5\fnVL TelingaterDisplay\fs160\fsp6\3c&H3BCFAB&\an2\fscx64\fscy90}Hàng Giả Tạo Truyện
 Dialogue: 0,0:07:16.29,0:07:19.83,Signs,,0,0,0,gradient @acc 10,{\clip(100,850,1800,854)\pos(949.7,839.4)\fad(480,808)\c&H51C998&\bord9\blur4.5\fnVL TelingaterDisplay\fs160\fsp6\3c&H38D0AD&\an2\fscx64\fscy90}Hàng Giả Tạo Truyện
 Dialogue: 1,0:07:16.29,0:07:19.83,Signs,,0,0,0,gradient @acc 10,{\fad(480,808)\c&HF4F8EF&\blur0.8\fnVL TelingaterDisplay\fs160\pos(949.7,839.4)\fsp6\an2\fscx64\fscy90}Hàng Giả Tạo Truyện
-Dialogue: 1,0:07:16.29,0:07:19.83,Signs,credit,0,0,0,,{\fad(480,808)\c&H404040&\blur0.8\fnVL TelingaterDisplay\fs160\fs60\fsp6\an2\pos(960,207.4)\fscx51\fscy59}PHỤ ĐỀ ĐƯỢC THỰC HIỆN BỞI{\fs90} GSGA {\fs60}THANKS TO{\fs90} MTBB\N\N{\fs60}DỊCH{\fs90} KiOZ {\fs60}TYPESET{\fs90} KiOZ/moch1oka/Eagle {\fs60}QC{\fs90} KiOZ/moch1oka
-Dialogue: 1,0:07:16.29,0:07:19.83,Signs,credit,0,0,0,,{\fad(480,808)\c&H404040&\blur0.8\fnVL TelingaterDisplay\fs160\fs60\fsp6\an2\pos(961,207.4)\fscx51\fscy59}PHỤ ĐỀ ĐƯỢC THỰC HIỆN BỞI{\fs90} GSGA {\fs60}THANKS TO{\fs90} MTBB\N\N{\fs60}DỊCH{\fs90} KiOZ {\fs60}TYPESET{\fs90} KiOZ/moch1oka/Eagle {\fs60}QC{\fs90} KiOZ/moch1oka
+Dialogue: 1,0:07:16.29,0:07:19.83,Signs,credit,0,0,0,,{\fad(480,808)\c&H404040&\blur0.8\fnVL TelingaterDisplay\fs160\fs60\fsp6\an2\pos(960,207.4)\fscx51\fscy59}PHỤ ĐỀ ĐƯỢC THỰC HIỆN BỞI{\fs90} GSGA {\fs60}THANKS TO{\fs90} MTBB\N\N{\fs60}DỊCH{\fs90} KiOZ {\fs60}PHƯƠNG NGỮ{\fs90} tuilakhanh {\fs60}TYPESET{\fs90} KiOZ/moch1oka/Eagle {\fs60}QC{\fs90} KiOZ/moch1oka
+Dialogue: 1,0:07:16.29,0:07:19.83,Signs,credit,0,0,0,,{\fad(480,808)\c&H404040&\blur0.8\fnVL TelingaterDisplay\fs160\fs60\fsp6\an2\pos(961,207.4)\fscx51\fscy59}PHỤ ĐỀ ĐƯỢC THỰC HIỆN BỞI{\fs90} GSGA {\fs60}THANKS TO{\fs90} MTBB\N\N{\fs60}DỊCH{\fs90} KiOZ {\fs60}PHƯƠNG NGỮ{\fs90} tuilakhanh {\fs60}TYPESET{\fs90} KiOZ/moch1oka/Eagle {\fs60}QC{\fs90} KiOZ/moch1oka
