@@ -18,9 +18,9 @@ Video File: ../raws/[OZR] Nisemonogatari - 02 (BD 1080p HEVC Opus) [FD0D8F34].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 420
-Active Line: 429
-Video Position: 35277
+Scroll Position: 111
+Active Line: 126
+Video Position: 11228
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -135,7 +135,7 @@ Dialogue: 10,0:06:11.72,0:06:12.43,Main,,0,0,0,,Vậy à.
 Dialogue: 10,0:06:12.43,0:06:14.43,Main,,0,0,0,,Đời đời kiếp kiếp không bao giờ quên.
 Dialogue: 10,0:06:18.06,0:06:23.07,Main,,0,0,0,,{\i1}Koyomi-onīchan anh đây, sẽ không hứng tình\N khi nhìn vào cơ thể của Sengoku.
 Dialogue: 10,0:06:24.09,0:06:26.57,Main,,0,0,0,,{\i1}May cho em là anh lịch thiệp đó, Sengoku?
-Dialogue: 10,0:06:28.07,0:06:31.12,Main,,0,0,0,,Sengoku, gần đây có gì chuyện gì không?
+Dialogue: 10,0:06:28.07,0:06:31.12,Main,,0,0,0,,Sengoku, gần đây có chuyện gì không?
 Dialogue: 10,0:06:31.65,0:06:33.62,Main,,0,0,0,,Ý-Ý anh là sao ạ?
 Dialogue: 10,0:06:33.62,0:06:36.73,Main,,0,0,0,,À thì, như chuyện lần trước chẳng hạn.
 Dialogue: 10,0:06:36.73,0:06:39.00,Main,,0,0,0,,Dạ không, Nadeko không sao ạ.
@@ -160,8 +160,8 @@ Dialogue: 10,0:07:26.38,0:07:34.08,Main,,0,0,0,,Nadeko nghĩ Quái Dị chỉ th
 Dialogue: 10,0:07:34.08,0:07:35.35,Main,,0,0,0,,Chắc là vậy.
 Dialogue: 10,0:07:35.35,0:07:36.18,Main,,0,0,0,,Nếu vậy thì...?
 Dialogue: 10,0:07:36.18,0:07:38.81,Main,,0,0,0,,Nhưng mà, không hẳn là hai người Rara-chan...
-Dialogue: 10,0:07:38.81,0:07:41.89,Main,,0,0,0,,thực sự lo ngại về "bùa yêu" đâu.
-Dialogue: 10,0:07:41.89,0:07:48.03,Main,,0,0,0,,Họ vốn từ đầu có lẽ đã không tin vào Quái Dị...\N em nghĩ vậy.
+Dialogue: 10,0:07:38.81,0:07:41.90,Main,,0,0,0,,thực sự lo ngại về "bùa yêu" đâu.
+Dialogue: 10,0:07:41.90,0:07:48.03,Main,,0,0,0,,Họ có lẽ từ đầu đã không tin vào Quái Dị...\N em nghĩ vậy.
 Dialogue: 10,0:07:48.03,0:07:50.03,Main,,0,0,0,,Mà, cũng phải ha.
 Dialogue: 10,0:07:50.03,0:07:52.26,Main,,0,0,0,,Thay vào đó, việc mà họ lo ngại...
 Dialogue: 10,0:07:52.26,0:07:56.92,Main,,0,0,0,,có lẽ là việc đống bùa yêu giả đáng ngờ đó\N đang tràn lan khắp nơi.
