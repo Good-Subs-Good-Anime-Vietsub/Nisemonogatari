@@ -16,9 +16,9 @@ Video File: E:/nise ts/[OZR] Nisemonogatari - 01 (BD 1080p HEVC Opus) [56CF6A74]
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 315
-Active Line: 321
-Video Position: 37535
+Scroll Position: 186
+Active Line: 189
+Video Position: 14899
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -217,7 +217,7 @@ Dialogue: 1,0:15:21.81,0:15:21.85,Signs,,0,0,0,,{\frz0\alpha&H00&\fs52\blur1.2\c
 Dialogue: 1,0:15:21.85,0:15:21.90,Signs,,0,0,0,,{\frz0\alpha&H00&\fs52\blur1.2\c&H232323&\pos(947.86,877.28)\an2\fnGentium\fscx106\fscy106}Coi chừng có gấu
 Dialogue: 1,0:15:21.90,0:15:21.94,Signs,,0,0,0,,{\frz0\alpha&H00&\fs52\blur1.2\c&H232323&\pos(955,876.56)\an2\fnGentium\fscx106\fscy106}Coi chừng có gấu
 Dialogue: 1,0:15:21.94,0:15:21.98,Signs,,0,0,0,,{\frz0\alpha&H00&\fs52\blur1.2\c&H232323&\pos(956.73,870.06)\an2\fnGentium\fscx106\fscy106}Coi chừng có gấu
-Dialogue: 0,0:10:21.39,0:10:22.22,Signs,,0,0,0,,{\blur1.2\frx5\fry0\alpha&H25\c&H437C76&\org(1004,354)\fnSVN-Coder's Crux\pos(1050.67,322)\fscx125\fscy125}Araragi Koyomi
+Dialogue: 0,0:10:21.39,0:10:22.18,Signs,,0,0,0,,{\blur1.2\frx5\fry0\alpha&H25\c&H437C76&\org(1004,354)\fnSVN-Coder's Crux\pos(1050.67,322)\fscx125\fscy125}Araragi Koyomi
 Dialogue: 0,0:01:40.58,0:01:41.50,Signs,,0,0,0,,{\fsp1.5\blur1.5\org(1469,588)\fnGentium\frz2.055\c&H190BDC&\fscx76\fscy76\pos(1529.8,467.2)}Bướm
 Dialogue: 0,0:01:40.58,0:01:41.50,Signs,,0,0,0,,{\fs45\fsp1.5\blur1.5\org(461,746)\fnGentium\frz2.055\c&H190BDC&\fscx76\fscy76\pos(526.4,661.2)}Bướm
 Dialogue: 0,0:11:13.20,0:11:13.36,Signs,,0,0,0,,{\fs225\blur0.75\c&HFFFFFF&\fnVL DellaRobbia BT\pos(1213.5,328.5)}Tóm
