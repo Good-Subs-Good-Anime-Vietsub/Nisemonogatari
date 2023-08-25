@@ -15,8 +15,9 @@ Audio File: [OZR] Nisemonogatari - 03 (BD 1080p HEVC Opus) [9ACB9F84].mkv
 Video File: [OZR] Nisemonogatari - 03 (BD 1080p HEVC Opus) [9ACB9F84].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Video Position: 6167
+Video Zoom Percent: 0.750000
+Active Line: 4
+Video Position: 460
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,4 +32,4 @@ Dialogue: 0,0:04:17.20,0:04:18.99,Signs,add.sign,0,0,0,,{\fs50\an7\blur1.5\c&H01
 Dialogue: 0,0:04:17.20,0:04:18.99,Signs,add.sign,0,0,0,,{\fs55\an7\blur1.5\c&H010520&\fnSVN-Fords Folly\b1\frz307.5\pos(433.57,157.43)}khúm
 Dialogue: 0,0:04:17.20,0:04:18.99,Signs,add.sign,0,0,0,,{\fs55\blur1.5\c&H000113&\b1\fnSVN-Fords Folly\pos(1078.47,705.87)\frz338.9}Nhỳn
 Dialogue: 0,0:04:17.20,0:04:18.99,Signs,add.sign,0,0,0,,{\fs55\blur1.5\c&H000113&\b1\fnSVN-Fords Folly\pos(1248.76,811.01)\frz360}đuy
-Dialogue: 1,0:00:19.17,0:00:27.05,Signs,add.sign,0,0,0,,{\fnSVN-Cupcake\c&H040012&\blur1.2\fscx140\fs20\pos(971.43,613.14)\t(0,7857,1,\\c&H8A7876&)\frz1.869}NAOETSU
+Dialogue: 1,0:00:19.17,0:00:27.05,Signs,add.sign,0,0,0,,{\fnSVN-Cupcake\c&H040012&\blur1.2\fs20\pos(971.43,612.14)\fsp4\t(0,7857,1,\\c&H8A7876&)\frz352.3\fscx191\fscy93}N{*\frz355.124}A{*\frz357.948}O{*\frz0.772}E{*\frz3.596}T{*\frz6.42}S{\frz9.244}U

@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Nisemonogatari - 03 (BD 1080p HEVC Opus) [9ACB9F84].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 470
-Active Line: 480
-Video Position: 8111
+Scroll Position: 215
+Active Line: 230
+Video Position: 19016
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -266,7 +266,7 @@ Dialogue: 0,0:13:03.89,0:13:06.22,Main,,0,0,0,,Em sẽ gửi cô gái kia theo c
 Dialogue: 0,0:13:06.22,0:13:07.73,Main,,0,0,0,,Thế thì em cũng chết theo luôn.
 Dialogue: 0,0:13:07.73,0:13:11.10,Main,,0,0,0,,Em cũng sẽ gửi Kanbaru theo cùng \Nđể đảm bảo anh không cô đơn.
 Dialogue: 0,0:13:11.10,0:13:13.11,Main,,0,0,0,,Em coi Kanbaru là gì vậy hả?!
-Dialogue: 0,0:13:13.11,0:13:14.61,Main,,0,0,0,,Một công cụ với mang tên đàn em.
+Dialogue: 0,0:13:13.11,0:13:14.61,Main,,0,0,0,,Một công cụ mang tên đàn em.
 Dialogue: 0,0:13:14.61,0:13:16.65,Main,,0,0,0,,Nhẫn tâm nó vừa vừa thôi chứ!
 Dialogue: 0,0:13:16.65,0:13:17.99,Main,,0,0,0,,Đùa thôi.
 Dialogue: 0,0:13:17.99,0:13:19.90,Main,,0,0,0,,Kanbaru là đàn em đáng yêu.
@@ -390,8 +390,8 @@ Dialogue: 0,0:19:14.36,0:19:15.50,Main,,0,0,0,,Ây! Gahara{*}-san{*}?!
 Dialogue: 0,0:19:15.50,0:19:16.47,Main,,0,0,0,,Hoặc...
 Dialogue: 0,0:19:17.13,0:19:18.61,Main,,0,0,0,,...cho đến khi em giết Kaiki.
 Dialogue: 0,0:19:18.61,0:19:19.68,Main,,0,0,0,,Ấy đừng!
-Dialogue: 0,0:19:19.68,0:19:22.32,Main,,0,0,0,,Đúng rồi, phải "xoèn xẹt" cho mấy cái.
-Dialogue: 0,0:19:22.32,0:19:23.20,Main,,0,0,0,,"Xoèn xẹt" cái gì?!
+Dialogue: 0,0:19:19.68,0:19:22.32,Main,,0,0,0,,Đúng rồi, phải "xoèn xoẹt" cho mấy cái.
+Dialogue: 0,0:19:22.32,0:19:23.20,Main,,0,0,0,,"Xoèn xoẹt" cái gì?!
 Dialogue: 0,0:19:23.20,0:19:25.10,Main,,0,0,0,,Bày đặt đáng yêu\N cũng không được đâu nhá!
 Dialogue: 0,0:19:25.10,0:19:26.52,Main,,0,0,0,,Không được là không được!
 Dialogue: 0,0:19:26.81,0:19:29.06,Main,,0,0,0,,Nói chung, Kaiki là loại người như—

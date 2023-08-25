@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Nisemonogatari - 03 (BD 1080p HEVC Opus) [9ACB9F84].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 597
-Active Line: 612
-Video Position: 27968
+Scroll Position: 63
+Active Line: 64
+Video Position: 8368
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -93,7 +93,7 @@ Dialogue: 0,0:01:05.88,0:01:07.13,Signs-an2,,0,0,0,,{\pos(367.214,436.286)\fs35\
 Dialogue: 2,0:02:35.93,0:02:39.10,Signs,,0,0,0,,{\blur4\fs40\c&H242227&\alpha&HB0&\fnHL-Dragon Fire\pos(964.57,560.07)\fscx90\fscy85}Shishinden \N{\fs30}(Cung điện Hoàng Gia)
 Dialogue: 3,0:02:35.93,0:02:39.10,Signs,,0,0,0,,{\blur1\fs40\c&H242227&\fnHL-Dragon Fire\pos(964.57,560.07)\fscx90\fscy85}Shishinden \N{\fs30}(Cung điện Hoàng Gia)
 Dialogue: 0,0:03:08.67,0:03:09.67,Signs-an2,,0,0,0,,{\pos(949.5,246)\fs39\blur1.2\c&HF7F8FD&\fnGentium Basic\b1}Koyomi       {\c&HFFFFFF&}Suruga
-Dialogue: 1,0:05:49.00,0:05:49.50,Blogemonogatari,,0,0,0,,{\an5\b1\blur0.938\c&HD9AF4D&\fnGentium Basic\fscx125\fscy125}Tiếp theo là cô em gái bé.\NAraragi Tsukihi.\N\NKhông như cô chị Karen, kiểu tóc của nó thay đổi tùy theo tâm trạng và mùa trong năm.\NNó không để một kiểu tóc quá 3 tháng, nên là tôi cũng chả biết liệu tóc có ý nghĩa đặc biệt gì hay không.\NTrước đây, nó để tóc dài thẳng, nhưng hiện tại thì để kiểu "bob cô gái Hà Lan" bờm xờm.\N\NTuy nhiên, đối với Tsukihi, vấn đề nằm ở bên trong hơn là bên ngoài.\N Trái ngược với cô chị, nó có đôi mắt hơi rủ xuống trông trưởng thành hơn, và mình mẩy cũng nhỏ nhắn hơn,\N chưa kể còn có giọng điệu chậm rãi đặc trưng có phần nữ tính hơn,\Nthế nhưng, bên trong thì nó còn nóng nảy hơn cả Karen, rất dễ kích động.\NNhững lần Karen gây chuyện động tay động chân, đến lúc dò hỏi sự tình,\N thì đa phần là do Tsukihi mà ra, chứ không phải chỉ một hay hai lần gì cả.\N\NNó yêu quần áo Nhật Bản đến nỗi lấy nguyên bộ yukata làm đồ ngủ,\N tham gia CLB Trà đạo vì cái lý do "muốn mặc kimono",\Nchính ra nó phải học được tinh thần trà đạo ở đó \Nnhưng xem ra là nước đổ đầu vịt, tính cách không hề thay đổi.\N Cơ mà, dưới sự chi phối bởi một "nhà sư/nhóc" ngang bướng nóng nảy nào đó, \N người mà phát điên chỉ vì bị bỏ đường vào dưa hấu\N thì cái tính cuồng loạn của con bé chỉ có tăng chứ không có giảm.
+Dialogue: 1,0:05:49.00,0:05:49.50,Blogemonogatari,,0,0,0,,{\an5\b1\blur0.938\c&HD9AF4D&\fnGentium Basic\fscx125\fscy125}Tiếp theo là cô em gái bé.\NAraragi Tsukihi.\N\NKhông như cô chị Karen, kiểu tóc của nó thay đổi tùy theo tâm trạng và mùa trong năm.\NNó không để một kiểu tóc quá 3 tháng, nên là tôi cũng chả biết liệu tóc có ý nghĩa đặc biệt gì hay không.\NTrước đây, nó để tóc dài thẳng, nhưng hiện tại thì để kiểu "bob cô gái Hà Lan" bờm xờm.\N\NTuy nhiên, đối với Tsukihi, vấn đề nằm ở bên trong hơn là bên ngoài.\N Trái ngược với cô chị, nó có đôi mắt hơi rủ xuống trông trưởng thành hơn, và mình mẩy cũng nhỏ nhắn hơn,\N chưa kể còn có giọng điệu chậm rãi đặc trưng mang phần nữ tính hơn,\Nthế nhưng, bên trong thì nó còn nóng nảy hơn cả Karen, rất dễ kích động.\NNhững lần Karen gây chuyện động tay động chân, đến lúc dò hỏi sự tình,\N thì đa phần là do Tsukihi mà ra, chứ không phải chỉ một hay hai lần gì cả.\N\NNó yêu quần áo Nhật Bản đến nỗi lấy nguyên bộ yukata làm đồ ngủ,\N tham gia CLB Trà đạo vì cái lý do "muốn mặc kimono",\Nchính ra nó phải học được tinh thần trà đạo ở đó \Nnhưng xem ra là nước đổ đầu vịt, tính cách không hề thay đổi.\N Cơ mà, dưới sự chi phối bởi một "nhà sư/nhóc" ngang bướng nóng nảy nào đó, \N người mà phát điên chỉ vì bị bỏ đường vào dưa hấu\N thì cái tính cuồng loạn của con bé chỉ có tăng chứ không có giảm.
 Dialogue: 0,0:05:49.00,0:05:49.50,Blogemonogatari,,0,0,0,,{\pos(960,1083)\p1\c&HF5F5F7&\fscx1300\fscy730\fnGentium Basic}m 0 0 l 150 0 150 150 0 150{\p0}
 Dialogue: 1,0:09:50.48,0:09:50.52,Signs-an2,,0,0,0,,{\an1\pos(246.5,597)\fscx100\frz0\fs42\fscy120\blur2.25\c&HF941DE&\alpha&H30&\fnGentium Basic\fsp4}một tai họa
 Dialogue: 0,0:09:50.48,0:09:50.52,Signs-an2,,0,0,0,,{\an1\pos(246.5,597)\fscx100\frz0\alpha&H00&\fs42\fscy120\bord3\blur4.2\c&HF92279&\3c&HCF2173&\fnGentium Basic\fsp4}một tai họa
