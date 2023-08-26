@@ -18,9 +18,9 @@ Video File: ../raws/[OZR] Nisemonogatari - 02 (BD 1080p HEVC Opus) [FD0D8F34].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 111
-Active Line: 126
-Video Position: 11228
+Scroll Position: 201
+Active Line: 212
+Video Position: 16836
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -161,7 +161,7 @@ Dialogue: 10,0:07:34.08,0:07:35.35,Main,,0,0,0,,Chắc là vậy.
 Dialogue: 10,0:07:35.35,0:07:36.18,Main,,0,0,0,,Nếu vậy thì...?
 Dialogue: 10,0:07:36.18,0:07:38.81,Main,,0,0,0,,Nhưng mà, không hẳn là hai người Rara-chan...
 Dialogue: 10,0:07:38.81,0:07:41.90,Main,,0,0,0,,thực sự lo ngại về "bùa yêu" đâu.
-Dialogue: 10,0:07:41.90,0:07:48.03,Main,,0,0,0,,Họ có lẽ từ đầu đã không tin vào Quái Dị...\N em nghĩ vậy.
+Dialogue: 10,0:07:41.90,0:07:48.03,Main,,0,0,0,,Có lẽ từ đầu họ đã không tin vào Quái Dị...\N em nghĩ vậy.
 Dialogue: 10,0:07:48.03,0:07:50.03,Main,,0,0,0,,Mà, cũng phải ha.
 Dialogue: 10,0:07:50.03,0:07:52.26,Main,,0,0,0,,Thay vào đó, việc mà họ lo ngại...
 Dialogue: 10,0:07:52.26,0:07:56.92,Main,,0,0,0,,có lẽ là việc đống bùa yêu giả đáng ngờ đó\N đang tràn lan khắp nơi.
@@ -247,7 +247,7 @@ Dialogue: 10,0:11:33.83,0:11:34.75,Main,,0,0,0,,Giải thể luôn đi!
 Dialogue: 10,0:11:35.93,0:11:38.09,Main,,0,0,0,,Araragi{*}-senpai{*}, anh sao thế?
 Dialogue: 10,0:11:38.09,0:11:40.10,Main,,0,0,0,,Em đùa thôi mà.
 Dialogue: 10,0:11:40.10,0:11:42.17,Main,,0,0,0,,Thế mà anh cũng tin được.
-Dialogue: 10,0:11:42.17,0:11:46.10,Main,,0,0,0,,Chắc hẳn Araragi-senpai\N còn dâm hơn cả em ấy chứ.
+Dialogue: 10,0:11:42.17,0:11:46.10,Main,,0,0,0,,Có khi Araragi-senpai\N còn dâm hơn cả em ấy chứ.
 Dialogue: 10,0:11:46.19,0:11:47.51,Main,,0,0,0,,C-Cái gì cơ?!
 Dialogue: 10,0:11:49.64,0:11:50.85,Main,,0,0,0,,Sao thế, Kanbaru?
 Dialogue: 10,0:11:50.98,0:11:54.68,Main,,0,0,0,,Em quên mất chưa đóng cửa...
