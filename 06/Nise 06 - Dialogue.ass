@@ -17,9 +17,9 @@ Video File: ../raws/[OZR] Nisemonogatari - 06 (BD 1080p HEVC Opus) [4434234D].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 439
-Active Line: 454
-Video Position: 35665
+Scroll Position: 340
+Active Line: 341
+Video Position: 25389
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -64,14 +64,14 @@ Dialogue: 9,0:01:03.33,0:01:05.87,Main,,0,0,0,,Đó chỉ là phản ứng để
 Dialogue: 9,0:01:05.87,0:01:08.71,Main,,0,0,0,,Anh thực sự cho rằng "dừng lại đi"\N tức là "dừng lại thật" à?
 Dialogue: 9,0:01:08.71,0:01:11.80,Main,,0,0,0,,Chán thật chứ! \NNgười ta tung như thế mà chả biết hứng gì cả!
 Dialogue: 9,0:01:11.80,0:01:13.21,Main,,0,0,0,,Em gắt quá đấy!
-Dialogue: 9,0:01:13.21,0:01:14.51,Main,,0,0,0,,Khâu mở mán chán quá đấy.
+Dialogue: 9,0:01:13.21,0:01:14.51,Main,,0,0,0,,Khâu mở màn chán quá đấy.
 Dialogue: 9,0:01:15.59,0:01:17.93,Main,,0,0,0,,Cảm giác hỏng hết cả miếng hài rồi còn đâu.
 Dialogue: 9,0:01:17.93,0:01:19.05,Main,,0,0,0,,Tới vậy luôn?!
 Dialogue: 9,0:01:20.26,0:01:21.51,Main,,0,0,0,,Này, Hachikuji.
 Dialogue: 9,0:01:21.51,0:01:22.14,Main,,0,0,0,,Từ đã nào.
 Dialogue: 9,0:01:22.14,0:01:23.39,Main,,0,0,0,,Tôi không quen anh.
 Dialogue: 9,0:01:23.39,0:01:26.48,Main,,0,0,0,,Người bạn tốt Araragi-san của tôi đã chết rồi.
-Dialogue: 9,0:01:26.48,0:01:28.94,Main,,0,0,0,,Araragi-san mà bỏ đi "quấy rồi tình dục"...
+Dialogue: 9,0:01:26.48,0:01:28.94,Main,,0,0,0,,Araragi-san mà bỏ đi "quấy rối tình dục"...
 Dialogue: 9,0:01:28.94,0:01:31.19,Main,,0,0,0,,thì chỉ còn là bọ chét nước thôi.
 Dialogue: 9,0:01:31.19,0:01:35.19,Main,,0,0,0,,Vốn từ đầu cấu tạo nên anh mày đã cóc có\N bọ chét nước nhá!
 Dialogue: 9,0:01:35.19,0:01:37.07,Main,,0,0,0,,Thôi! Tôi không muốn nhìn thấy mặt anh nữa.
@@ -127,7 +127,7 @@ Dialogue: 9,0:03:57.42,0:04:00.21,Main,,0,0,0,,Nhưng kể cả không đi làm 
 Dialogue: 9,0:04:00.21,0:04:03.47,Main,,0,0,0,,Tức là cứ đến tuổi thì trưởng thành à?
 Dialogue: 9,0:04:03.90,0:04:05.03,Main,,0,0,0,,Mà cũng đúng...
 Dialogue: 9,0:04:05.03,0:04:09.98,Main,,0,0,0,,...bắt 2 đứa học sinh lớp 8 lớp 9 phải trưởng thành\N thì sao mà được.
-Dialogue: 9,0:04:10.43,0:04:12.56,Main,,0,0,0,,Quả thật ở cái tuổi đó \Nthì vẫn con nít ranh.
+Dialogue: 9,0:04:10.43,0:04:12.56,Main,,0,0,0,,Quả thật ở cái tuổi đó \Nthì vẫn nít ranh lắm.
 Dialogue: 9,0:04:12.56,0:04:13.85,Main,,0,0,0,,Phải đấy.
 Dialogue: 9,0:04:13.85,0:04:17.06,Main,,0,0,0,,Học sinh cấp 2 thì trẻ con là đúng rồi.
 Dialogue: 9,0:04:17.06,0:04:20.15,Main,,0,0,0,,Nhưng vấn đề nằm ở việc\N họ không biết mình rất trẻ con.
@@ -173,7 +173,7 @@ Comment: 9,0:07:38.94,0:07:42.85,GT 2,TLC,0,0,0,@@@,(ở đây Hitagi dùng từ
 Dialogue: 9,0:07:38.94,0:07:42.85,Main,TLC,0,0,0,@@@,Thế thì em sẽ lại tiếp tục gọt bút chì \N {\i1}trên{\i0} chính chỗ báo đó.
 Dialogue: 9,0:07:42.85,0:07:44.35,Main,,0,0,420,,Bình tĩnh nào, Senjōgahara!
 Dialogue: 9,0:07:44.35,0:07:47.48,Main,,0,0,420,,Kể cả em có làm vẻ mặt tự đắc đó\N thì câu đùa đấy cũng chả hay đâu!
-Dialogue: 9,0:07:48.73,0:07:52.11,Main,,0,0,0,,Tạm thời cứ cởi giầy rồi vào đi đã, Araragi-kun.
+Dialogue: 9,0:07:48.73,0:07:52.11,Main,,0,0,0,,Tạm thời cứ cởi giày rồi vào đi đã, Araragi-kun.
 Dialogue: 9,0:07:52.99,0:07:56.37,Main,,0,0,0,,Khỏi phải lo, em không bắt cóc anh nữa đâu.
 Dialogue: 9,0:07:57.53,0:07:59.24,Main,,0,0,0,,Vậy anh vào đây.
 Dialogue: 9,0:08:00.58,0:08:01.25,Main,,0,0,0,,Thế...
@@ -194,7 +194,7 @@ Dialogue: 9,0:08:37.61,0:08:40.54,Main,,0,0,0,,thì đúng là em sẽ bị Hane
 Dialogue: 9,0:08:40.54,0:08:42.45,Main,,0,0,0,,Nhưng đừng có kêu đó là bắt nạt chứ.
 Dialogue: 9,0:08:42.45,0:08:43.66,Main,,0,0,0,,Mang tiếng ra.
 Dialogue: 9,0:08:43.66,0:08:46.54,Main,,0,0,0,,Thì em nói không còn gì.
-Dialogue: 9,0:08:46.54,0:08:51.71,Main,,0,0,0,,Sáng nào em cũng đánh giầy cho Hanekawa-san,\N và em làm thế là bởi vì em thích.
+Dialogue: 9,0:08:46.54,0:08:51.71,Main,,0,0,0,,Sáng nào em cũng đánh giày cho Hanekawa-san,\N và em làm thế bởi vì em thích.
 Dialogue: 9,0:08:52.71,0:08:55.59,Main,,0,0,0,,Sao em lại khúm núm trước Hanekawa thế?
 Dialogue: 9,0:08:55.59,0:08:58.84,Main,,0,0,0,,Dù sao thì, em tính đi gặp Kaiki à?
 Dialogue: 9,0:08:59.34,0:09:02.85,Main,,0,0,0,,Nhưng mà này, Senjōgahara, \Nem có biết Kaiki ở đâu không?
@@ -256,7 +256,7 @@ Dialogue: 9,0:11:48.93,0:11:51.06,Main,,0,0,0,,Nhưng Kaiki thì khác.
 Dialogue: 9,0:11:51.06,0:11:51.93,Main,,0,0,0,,Tại sao?
 Dialogue: 9,0:11:51.93,0:11:55.94,Main,,0,0,0,,Kaiki chính là người đã kích động \Nkhiến bố mẹ em ly hôn.
 Dialogue: 9,0:11:57.31,0:12:00.44,Main,,0,0,0,,Tất nhiên, không thể \Nquy toàn bộ trách nhiệm cho Kaiki.
-Dialogue: 9,0:12:00.44,0:12:01.94,Main,,0,0,0,,và em cũng không có ý định đó.
+Dialogue: 9,0:12:00.44,0:12:01.94,Main,,0,0,0,,Và em cũng không có ý định đó.
 Dialogue: 9,0:12:01.94,0:12:04.82,Main,,0,0,0,,Nhưng ông ta đã đùa giỡn với gia đình em.
 Dialogue: 9,0:12:04.82,0:12:06.99,Main,,0,0,0,,Nên em không thể dung thứ.
 Dialogue: 9,0:12:06.99,0:12:08.66,Main,,0,0,0,,Nếu em buông bỏ...
@@ -355,7 +355,7 @@ Dialogue: 9,0:16:34.14,0:16:35.59,Main,,0,0,0,,Làm sao vờ như chưa nghe th�
 Dialogue: 9,0:16:35.59,0:16:36.84,Main,,0,0,0,,Em không có bị đe dọa đâu!
 Dialogue: 9,0:16:36.84,0:16:38.60,Main,,0,0,0,,Em bị đe dọa á?! Hanekawa ư?!
 Dialogue: 9,0:16:38.60,0:16:40.18,Main,,0,0,0,,Ở bất cứ đâu,
-Dialogue: 9,0:16:40.18,0:16:43.10,Main,,0,0,0,,việc ngồi quỳ gối trước Hanekawa-san cũng là\N lẽ dĩ nhiên mà.
+Dialogue: 9,0:16:40.18,0:16:43.10,Main,,0,0,0,,việc ngồi quỳ gối trước Hanekawa-san\N cũng là lẽ dĩ nhiên mà.
 Dialogue: 9,0:16:43.10,0:16:44.60,Main,,0,0,0,,Ở bất cứ đâu á?!
 Dialogue: 9,0:16:44.60,0:16:46.48,Main,,0,0,0,,Hanekawa{*}-san{*}...
 Dialogue: 9,0:16:46.48,0:16:49.11,Main,,0,0,0,,Giống như Hanekawa-san đã cắt tóc vậy.
@@ -380,7 +380,7 @@ Dialogue: 9,0:17:29.07,0:17:30.94,Main,,0,0,0,,Tình tiết truyện là anh ch�
 Dialogue: 9,0:17:30.94,0:17:31.82,Main,,0,0,0,,Phải.
 Dialogue: 9,0:17:31.82,0:17:33.44,Main,,0,0,0,,Và trong phân cảnh cao trào,
 Dialogue: 9,0:17:33.44,0:17:35.04,Main,,0,0,0,,đóng vai trò như một đồ vật quan trọng,
-Dialogue: 9,0:17:35.04,0:17:38.95,Main,,0,0,0,,món quà sinh nhật mà Araragi-kun tặng em là\N chiếc kính viễn vọng sẽ được sử dụng.
+Dialogue: 9,0:17:35.04,0:17:38.95,Main,,0,0,0,,món quà sinh nhật mà Araragi-kun tặng em\N là chiếc kính viễn vọng sẽ được sử dụng.
 Dialogue: 9,0:17:38.95,0:17:41.95,Main,,0,0,0,,Không có cảnh nào dùng tới kính viễn vọng nhá!
 Dialogue: 9,0:17:42.33,0:17:44.70,Main,,0,0,0,,Nói luôn ra đê! \NTình tiết truyện cái nỗi gì!
 Dialogue: 9,0:17:44.70,0:17:46.96,Main,,0,0,0,,Nếu thế thì coi như chưa bàn gì cả.
@@ -421,7 +421,7 @@ Dialogue: 9,0:19:07.87,0:19:09.54,Main,,0,0,0,,Lúc em tỉnh dậy,
 Dialogue: 9,0:19:09.54,0:19:12.17,Main,,0,0,0,,đã không thấy Karen-chan đâu rồi.
 Dialogue: 9,0:19:12.17,0:19:14.04,Main,,0,0,0,,Vẫn còn chưa khỏi hẳn mà!
 Dialogue: 9,0:19:14.04,0:19:15.34,Main,,0,0,0,,Bình tĩnh nào, Tsukihi{*}-chan{*}!
-Dialogue: 9,0:19:17.24,0:19:20.36,Main,,0,0,0,,Không thấy giầy đâu cả,\N hình như cũng đã thay quần áo rồi.
+Dialogue: 9,0:19:17.24,0:19:20.36,Main,,0,0,0,,Không thấy giày đâu cả,\N hình như cũng đã thay quần áo rồi.
 Dialogue: 9,0:19:20.36,0:19:21.34,Main,,0,0,0,,Bình tĩnh nào!
 Dialogue: 9,0:19:21.34,0:19:22.88,Main,,0,0,0,,Em có nghĩ ra được gì không?
 Dialogue: 9,0:19:22.88,0:19:24.76,Main,,0,0,0,,Chỗ mà nó có thể tới ấy?
