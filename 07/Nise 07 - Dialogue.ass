@@ -18,9 +18,9 @@ Video File: ../raws/[OZR] Nisemonogatari - 07 (BD 1080p HEVC Opus) [CA45FD3F].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 442
-Active Line: 450
-Video Position: 35996
+Scroll Position: 447
+Active Line: 462
+Video Position: 37771
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -191,7 +191,7 @@ Dialogue: 10,0:08:56.48,0:08:58.31,Main,,0,0,0,,{*}N-Nī-chan{*B-Bro}...
 Dialogue: 10,0:08:58.31,0:09:00.94,Main,,0,0,0,,Em có nói là "ức chế" nhỉ, Karen{*}-chan{*}?
 Dialogue: 10,0:09:00.94,0:09:03.11,Main,,0,0,0,,Anh nghe rõ rồi.
 Dialogue: 10,0:09:03.11,0:09:06.84,Main,,0,0,0,,Nhưng mà này, anh đây còn ức chế hơn cả em!
-Dialogue: 10,0:09:06.84,0:09:09.32,Main,,0,0,0,,Dám làm hoen ô niềm tự hào của anh.\NĐừng hòng anh tha!
+Dialogue: 10,0:09:06.84,0:09:09.32,Main,,0,0,0,,Dám làm hoen ố niềm tự hào của anh.\NĐừng hòng anh tha!
 Dialogue: 10,0:09:09.32,0:09:10.77,Main,,0,0,0,,Cứ để anh lo.
 Dialogue: 10,0:09:10.77,0:09:13.40,Main,,0,0,0,,Ức chế ư? Thảm hại quá...
 Dialogue: 10,0:09:14.40,0:09:16.83,Main,,0,0,0,,Để Nī-chan {\i1}chùi đít{\i0} cho thế này...
@@ -203,6 +203,7 @@ Dialogue: 10,0:09:30.28,0:09:32.43,Main,,0,0,0,,Loạn luân thì có mà loạn
 Dialogue: 10,0:09:32.43,0:09:34.18,Main,,0,0,0,,Đổ mất rồi còn đâu.
 Dialogue: 10,0:09:34.18,0:09:35.14,Main,,0,0,0,,{*}Nī-chan{*Bro}...
 Dialogue: 10,0:09:37.53,0:09:39.35,Main,,0,0,0,,Trông cậy nơi anh.
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,chống xóc
 Dialogue: 10,0:09:52.65,0:09:56.78,Main,,0,0,0,,Hình như ta từng gặp cậu\N ở trước cửa ngôi nhà mà Gaen để lại.
 Dialogue: 10,0:09:58.32,0:10:00.03,Main,,0,0,0,,Trả thù cho em gái à?
 Dialogue: 10,0:10:00.65,0:10:04.28,Main,,0,0,0,,Thời buổi này hiếm thấy\N ai có được tinh thần hào hiệp như vậy.
@@ -499,7 +500,7 @@ Dialogue: 0,0:25:54.69,0:25:56.74,Main,preview,0,0,0,,{\i1}Thời thế thay đ�
 Dialogue: 0,0:25:56.74,0:26:03.20,Main,preview,0,0,0,,{\i1}Có điều, so với cái tên {\c&H5D5EFF&}điện thoại thông minh{\c},\N chúng có hơi {\c&H5D5EFF&}béo{\c}.
 Dialogue: 0,0:26:03.95,0:26:08.93,Main,preview,0,0,0,,{\i1}Chúng to gấp đôi điện thoại thường\N và còn dày cộp nữa.
 Dialogue: 0,0:26:08.93,0:26:15.36,Main,preview,0,0,0,,{\i1}Quá khó để nhét vào túi,\N cả mặt sau lẫn màn hình đều to bản, có vẻ dễ vỡ.
-Dialogue: 0,0:26:15.36,0:26:18.67,Main,preview,0,0,0,,{\i1}Đừng tưởng ai cũng dán \Ncường lực chống xóc các thứ nhá.
+Dialogue: 0,0:26:15.36,0:26:18.67,Main,preview,0,0,0,,{\i1}Đừng tưởng ai cũng dán \Ncường lực chống sốc các thứ nhá.
 Dialogue: 0,0:26:19.32,0:26:25.94,Main,preview,0,0,0,,{\i1}Ấy chết! Gọi là {\c&H5D5EFF&}Fat-Phone{\c} thì có hơi này nọ,\N chính xác hơn phải là {\c&H5D5EFF&}Flat-Phone{\c}.
 Dialogue: 0,0:26:26.69,0:26:35.17,Main,preview,0,0,0,,{\i1}Mà, dù sao thì, đối với những thiết bị đã tận lực\N giúp đỡ mình bấy lâu, như là {\c&H5D5EFF&}điện thoại nắp gập{\c} chẳng hạn,
 Dialogue: 0,0:26:35.17,0:26:40.88,Main,preview,0,0,0,,{\i1}chú không muốn trở thành loại người mà \N có thể dễ dàng coi chúng như đồ bỏ.
