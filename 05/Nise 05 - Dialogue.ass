@@ -19,9 +19,9 @@ Video File: ../raws/[OZR] Nisemonogatari - 05 (BD 1080p HEVC Opus) [E259F4FA].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 236
-Active Line: 238
-Video Position: 18305
+Scroll Position: 232
+Active Line: 241
+Video Position: 18576
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -114,7 +114,7 @@ Dialogue: 0,0:02:49.89,0:02:51.69,Main,,0,0,0,,Tội nghiệp {*}Onī-chan{*Bro}
 Dialogue: 0,0:02:51.69,0:02:53.90,Main,,0,0,0,,Rồi anh sẽ chết trong cô đơn mất.
 Dialogue: 0,0:02:53.90,0:02:56.15,Main,,0,0,0,,Anh trai mày mà mày nói vậy luôn à!
 Dialogue: 0,0:02:56.15,0:02:57.69,Main,,0,0,0,,Mà dù sao thì...
-Dialogue: 0,0:02:57.69,0:03:01.78,Main,,0,0,0,,Nếu em muốn biết tại sao trước đây\N anh không có bạn...
+Dialogue: 0,0:02:57.69,0:03:01.78,Main,,0,0,0,,Nếu em muốn biết \Ntại sao trước đây anh không có bạn...
 Dialogue: 0,0:03:01.78,0:03:05.54,Main,,0,0,0,,Đúng rồi, trước đây anh có suy nghĩ như này...
 Dialogue: 0,0:03:05.54,0:03:07.37,Main,,0,0,0,,Khi kết bạn, {\i1}sức mạnh thuộc tính người{\i0} sẽ—
 Dialogue: 0,0:03:07.37,0:03:11.33,Main,,0,0,0,,Thôi, xấu hổ vậy là đủ lắm rồi.
@@ -158,7 +158,7 @@ Dialogue: 0,0:06:15.85,0:06:20.15,Main,,0,0,0,,Vậy tức là nhóc gửi mail 
 Dialogue: 0,0:06:20.15,0:06:21.60,Main,,0,0,0,,Ra vậy.
 Dialogue: 0,0:06:21.60,0:06:22.86,Main,,0,0,0,,Nước đi hay đấy.
 Dialogue: 0,0:06:23.98,0:06:27.53,Main,,0,0,0,,Nhưng chú nghĩ đây không phải do nhóc nghĩ ra.
-Dialogue: 0,0:06:28.63,0:06:31.24,Main,,0,0,0,,Chú không tin một đứa \Nhữu dũng như nhóc...
+Dialogue: 0,0:06:28.63,0:06:31.24,Main,,0,0,0,,Chú không tin một đứa hữu dũng như nhóc...
 Dialogue: 0,0:06:31.49,0:06:34.49,Main,,0,0,0,,lại có thể lần ra được chú.
 Dialogue: 0,0:06:36.31,0:06:38.20,Main,,0,0,0,,Lẽ ra không thể được.
 Dialogue: 0,0:06:38.79,0:06:43.88,Main,,0,0,0,,Phải có gì đó khác thường thì\N nhóc mới có thể mò tới tận đây được.
@@ -260,7 +260,7 @@ Dialogue: 0,0:11:39.30,0:11:40.80,Main,,0,0,0,,Và đương nhiên là có tính
 Dialogue: 0,0:11:41.26,0:11:42.47,Main,,0,0,0,,Cho chú xin ít tiền.
 Dialogue: 0,0:11:43.97,0:11:45.60,Main,,0,0,0,,4 nghìn yên à?
 Dialogue: 0,0:11:45.60,0:11:46.72,Main,,0,0,0,,Mà cũng được.
-Dialogue: 0,0:11:47.14,0:11:50.06,Main,,0,0,0,,Thôi thì coi như chú miễn phí cho\N bài học ban nãy.
+Dialogue: 0,0:11:47.14,0:11:50.06,Main,,0,0,0,,Thôi thì coi như \Nchú miễn phí cho bài học ban nãy.
 Dialogue: 0,0:11:50.06,0:11:53.19,Main,,0,0,0,,Chú sẽ để lại ít tiền lẻ để nhóc bắt xe về—
 Dialogue: 0,0:11:53.75,0:11:55.86,Main,,0,0,0,,Ôi dào, có vé tháng rồi à.
 Dialogue: 0,0:11:56.36,0:11:58.23,Main,,0,0,0,,Thế thì khỏi cần tiền lẻ nữa.
@@ -281,7 +281,7 @@ Dialogue: 0,0:12:40.32,0:12:43.43,Main,,0,0,0,,nhưng nếu cậu muốn hỗ tr
 Dialogue: 0,0:12:43.43,0:12:46.24,Main,,0,0,0,,thì ít ra cũng nên nói cho tớ biết.
 Dialogue: 0,0:12:46.24,0:12:49.78,Main,,0,0,0,,Cơ mà, Araragi-kun mà biết \Nthì sẽ bực đúng không?
 Dialogue: 0,0:12:49.78,0:12:54.66,Main,,0,0,0,,Chưa kể, việc tớ muốn kết bạn với Karen-chan và Tsukihi-chan\N là quyền tự do của tớ chứ?
-Dialogue: 0,0:12:54.66,0:12:55.92,Main,,0,0,0,,Đúng thật.
+Dialogue: 0,0:12:54.66,0:12:55.92,Main,,0,0,0,,Tự do ha.
 Dialogue: 0,0:12:55.92,0:12:56.96,Main,,0,0,0,,Lại chả.
 Dialogue: 0,0:12:58.04,0:13:03.80,Main,,0,0,0,,Nhưng hãy coi đây như một lời xin lỗi\N vì đã giữ bí mật chuyện của Karen-chan và Tsukihi-chan.
 Dialogue: 0,0:13:04.55,0:13:06.55,Main,,0,0,0,,Cậu nhận lấy tấm vé này nhé!
