@@ -18,9 +18,9 @@ Video File: ../raws/[OZR] Nisemonogatari - 08 (BD 1080p HEVC Opus) [25E064F9].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 213
-Active Line: 222
-Video Position: 19839
+Scroll Position: 263
+Active Line: 277
+Video Position: 25782
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -53,8 +53,8 @@ Comment: 0,0:22:47.97,0:22:48.01,Main,,0,0,0,edsync,{cut-scene}
 Dialogue: 10,0:00:01.32,0:00:04.35,Main,manga.line,0,0,0,,{\i1\c&H2AFCFF&}Bằng cách tiết lộ thân phận thật sự \Ncủa Araragi Tsukihi,
 Dialogue: 10,0:00:04.35,0:00:08.48,Main,manga.line,0,0,0,,{\i1\c&H2AFCFF&}qua đó, hãy cùng khép lại\N câu chuyện này của chúng ta.
 Dialogue: 10,0:00:09.61,0:00:11.82,Main,nhatquan.nise01,0,0,0,,Onī-chan lúc nào cũng thế.
-Dialogue: 10,0:00:11.82,0:00:15.07,Main,nhatquan.nise01,0,0,0,,Cứ coi em với Karen-chan như con nít vậy.
-Dialogue: 10,0:00:15.07,0:00:19.41,Main,manga.line,0,0,0,,{\i1\c&H2AFCFF&}Bằng câu chuyện về\N cô em gái út khôn lỏi và lắm lời,
+Dialogue: 10,0:00:11.82,0:00:15.08,Main,nhatquan.nise01,0,0,0,,Cứ coi em với Karen-chan như con nít vậy.
+Dialogue: 10,0:00:15.08,0:00:19.41,Main,manga.line,0,0,0,,{\i1\c&H2AFCFF&}Bằng câu chuyện về\N cô em gái út khôn lỏi và lắm lời,
 Dialogue: 10,0:00:19.41,0:00:22.95,Main,manga.line,0,0,0,,{\i1\c&H2AFCFF&}sẽ khép lại giai thoại về\N tôi cùng những người bạn đồng hành đáng mến.
 Dialogue: 10,0:00:22.96,0:00:24.75,Main,nhatquan.nise05,0,0,0,,Sao lại không biết hả?!
 Dialogue: 10,0:00:25.04,0:00:26.88,Main,nhatquan.nise05,0,0,0,,Sôi hết cả máu!!!
@@ -86,10 +86,10 @@ Dialogue: 10,0:03:19.72,0:03:21.68,Main,,0,0,0,,Cô em gái tay vịn của anh 
 Dialogue: 10,0:03:21.68,0:03:22.47,Main,,0,0,0,,Méo nhá.
 Dialogue: 10,0:03:22.47,0:03:23.72,Main,,0,0,0,,Méo là méo!
 Dialogue: 10,0:03:23.72,0:03:27.93,Main,,0,0,0,,Mới sáng ra thì chả có việc gì\N nhờ tới em gái hết.
-Dialogue: 10,0:03:28.35,0:03:30.06,Main,,0,0,0,,Anh chả có việc vì cần nhờ mày,
-Dialogue: 10,0:03:30.06,0:03:32.69,Main,,0,0,0,,Và mày cũng chẳng làm được gì cả.
+Dialogue: 10,0:03:28.35,0:03:30.06,Main,,0,0,0,,Anh chả có việc gì cần nhờ mày,
+Dialogue: 10,0:03:30.06,0:03:32.69,Main,,0,0,0,,và mày cũng chẳng làm được gì cả.
 Dialogue: 10,0:03:33.06,0:03:36.94,Main,,0,0,0,,Như mày thấy đấy,\N giờ anh đang tập trung học đây này.
-Dialogue: 10,0:03:36.94,0:03:40.44,Main,,0,0,0,,Anh méo có thời gian rảnh chơi đùa với \Nsinh vật thấp kém như mày đâu.
+Dialogue: 10,0:03:36.94,0:03:40.44,Main,,0,0,0,,Anh méo có thời gian rảnh \Nchơi đùa với sinh vật thấp kém như mày đâu.
 Dialogue: 10,0:03:40.76,0:03:42.45,Main,,0,0,0,,Cái con đơn bào này!
 Dialogue: 10,0:03:42.45,0:03:45.07,Main,,0,0,0,,Rảnh háng thì đi chạy đi.
 Dialogue: 10,0:03:45.07,0:03:47.78,Main,,0,0,0,,Chạy khỏi về luôn cũng đượ—
@@ -145,7 +145,7 @@ Dialogue: 10,0:06:57.89,0:07:00.05,Main,,0,0,0,,Không biết nói sao nữa...
 Dialogue: 10,0:07:00.05,0:07:02.01,Main,,0,0,0,,Ừm, từ giờ trở đi em sẽ {\i1}bán{\i0} cho Nī-chan...
 Dialogue: 10,0:07:02.01,0:07:06.40,Main,,0,0,0,,kiểu nhân vật {\i1}cô em gái tình yêu{\i0},\N người không bao giờ chống đối lại anh trai mình.
 Dialogue: 10,0:07:06.40,0:07:08.44,Main,,0,0,0,,Mày có {\i1}bán{\i0} anh cũng cóc {\i1}mua{\i0} nhá!
-Dialogue: 10,0:07:08.44,0:07:11.28,Main,,0,0,0,,Mới cả, đây là kiểu nhân vật của Kanbaru nhá!
+Dialogue: 10,0:07:08.44,0:07:11.28,Main,,0,0,0,,Với cả, đây là kiểu nhân vật của Kanbaru nhá!
 Dialogue: 10,0:07:12.56,0:07:13.27,Main,,0,0,0,,Kanbaru...
 Dialogue: 10,0:07:19.29,0:07:22.16,Main,,0,0,0,,Ờ thì... Karen{*}-chan{*}...
 Dialogue: 10,0:07:22.16,0:07:25.41,Main,,0,0,0,,Kanbaru ấy là... đàn em dưới anh một lớp.
@@ -320,7 +320,7 @@ Dialogue: 10,0:17:40.79,0:17:44.12,Main,,0,0,0,,{\i1}Không biết chừng,\N em
 Dialogue: 10,0:17:44.87,0:17:49.97,Main,,0,0,0,,{\i1}Từ trước đến nay, mình vẫn luôn nghĩ \NHanekawa Tsubasa là mẫu con gái lý tưởng,
 Dialogue: 10,0:17:49.97,0:17:51.92,Main,,0,0,0,,{\i1}nhưng chả lẽ lại nhầm sao?
 Dialogue: 10,0:17:52.88,0:17:55.30,Main,,0,0,0,,{\i1}Tuy không hơn được Hanekawa,
-Dialogue: 10,0:17:55.30,0:17:58.22,Main,,0,0,0,,{\i1}nhưng con bé chắc cũng xập xí xập ngầu được.
+Dialogue: 10,0:17:55.30,0:17:58.22,Main,,0,0,0,,{\i1}nhưng con bé chắc cũng một chín một mười được.
 Dialogue: 10,0:17:58.22,0:17:59.72,Main,,0,0,0,,{\i1}Ấy! Ấy! Ấy! Khoan đã tôi ơi!
 Dialogue: 10,0:17:59.72,0:18:01.68,Main,,0,0,0,,{\i1}Nói cái quái gì thế hả?!
 Dialogue: 10,0:18:01.68,0:18:04.49,Main,,0,0,0,,{\i1}Không một ai có cửa với Hanekawa.
