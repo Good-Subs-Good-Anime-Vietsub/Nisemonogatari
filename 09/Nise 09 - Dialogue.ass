@@ -17,10 +17,10 @@ Audio File: ../raws/[OZR] Nisemonogatari - 09 (BD 1080p HEVC Opus) [A565D6C8].mk
 Video File: ../raws/[OZR] Nisemonogatari - 09 (BD 1080p HEVC Opus) [A565D6C8].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 414
-Active Line: 431
-Video Position: 35579
+Video Zoom Percent: 0.500000
+Scroll Position: 357
+Active Line: 358
+Video Position: 27985
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -82,7 +82,7 @@ Dialogue: 10,0:03:13.58,0:03:15.01,Main,,0,0,0,,Rồi, hiểu rồi.
 Dialogue: 10,0:03:15.01,0:03:16.39,Main,,0,0,0,,Nghe nghe.
 Dialogue: 10,0:03:16.39,0:03:20.05,Main,,0,0,0,,Koyomi Onī-chan hiền dịu dịu hiền này,\Nsẽ lắng nghe Karen-chan.
 Dialogue: 10,0:03:20.05,0:03:21.51,Main,,0,0,0,,Ngon!
-Dialogue: 10,0:03:21.51,0:03:24.02,Main,,0,0,0,,Nī-chan đã nài nỉ tới vậy thì em dành nói thôi.
+Dialogue: 10,0:03:21.51,0:03:24.02,Main,,0,0,0,,Nī-chan đã nài nỉ tới vậy thì em đành nói thôi.
 Dialogue: 10,0:03:24.02,0:03:25.68,Main,,0,0,0,,Thử nghiệm luôn nhỉ.
 Dialogue: 10,0:03:25.68,0:03:27.44,Main,,0,0,0,,Cơ mà ấy...
 Dialogue: 10,0:03:27.44,0:03:30.85,Main,,0,0,0,,nếu chỉ chơi oẳn tù tì không thôi \Nthì chắc Nī-chan không có hứng.
@@ -156,7 +156,7 @@ Dialogue: 10,0:06:11.47,0:06:13.14,Main,,0,0,0,,À thì... 56 cân.
 Dialogue: 10,0:06:14.85,0:06:16.35,Main,,0,0,0,,Thế thì thoải mái.
 Dialogue: 10,0:06:16.35,0:06:19.15,Main,,0,0,0,,180 cân em còn chiến được nữa là.
 Dialogue: 10,0:06:19.15,0:06:21.27,Main,,0,0,200,,Bộ mày sống trên mặt trăng à!
-Dialogue: 10,0:06:21.27,0:06:24.32,Main,,0,0,0,,M-Mà không hẳn vậy đâu.
+Dialogue: 10,0:06:21.27,0:06:24.32,Main,,0,0,0,,M-Mà không hẳn vậy đâu, Karen-chan.
 Dialogue: 10,0:06:24.32,0:06:27.36,Main,,0,0,0,,Thì nhá, cõng trên lưng thì thôi,\N nhưng kiệu trên vai ấy,
 Dialogue: 10,0:06:27.36,0:06:28.91,Main,,0,0,0,,đuôi tóc của em sẽ khá là vướng.
 Dialogue: 10,0:06:29.53,0:06:31.20,Main,,0,0,0,,À, tóc đuôi ngựa ấy à...
@@ -175,7 +175,7 @@ Dialogue: 10,0:07:09.62,0:07:12.08,Main,,0,0,0,,Ngon! Giờ thì kiệu Nī-chan
 Dialogue: 10,0:07:12.08,0:07:15.08,Main,,0,0,0,,Này! Em đã để tóc đuôi ngựa \Ntừ hồi tiểu học cơ mà!
 Dialogue: 10,0:07:15.08,0:07:17.00,Main,,0,0,0,,Thế không phải cuồng hay ưa thích gì à?!
 Dialogue: 10,0:07:17.00,0:07:21.13,Main,,0,0,0,,À thì, nó dài khó chăm sóc lắm,\N ngủ còn vướng nữa,
-Dialogue: 10,0:07:21.13,0:07:22.80,Main,,0,0,0,,Ngủ dậy thì rối tung rối mù.
+Dialogue: 10,0:07:21.13,0:07:22.80,Main,,0,0,0,,ngủ dậy thì rối tung rối mù.
 Dialogue: 10,0:07:22.80,0:07:24.21,Main,,0,0,0,,Em cay nó lâu lắm rồi.
 Dialogue: 10,0:07:24.21,0:07:25.42,Main,,0,0,0,,Thế mà vẫn chịu đựng à?
 Dialogue: 10,0:07:25.42,0:07:27.42,Main,,0,0,0,,Thôi nào, {*}Nī-chan{*Bro}, leo lên em kiệu.
@@ -308,7 +308,7 @@ Dialogue: 10,0:14:10.37,0:14:11.50,Main,,0,0,0,,Thế à?
 Dialogue: 10,0:14:11.50,0:14:13.16,Main,,0,0,0,,Trông không giống lắm.
 Dialogue: 10,0:14:13.16,0:14:18.17,Main,,0,0,0,,Ngoại trừ cách cư xử và cách nói chuyện, \Nanh thấy cô ấy là một bà chị xinh đẹp, bình thường.
 Dialogue: 10,0:14:19.37,0:14:24.76,Main,,0,0,0,,Trọng tâm của cô ấy trong suốt thời gian\N nói chuyện với Nī-chan không hề dao động.
-Dialogue: 10,0:14:24.76,0:14:27.42,Main,,0,0,0,,Cân bằng như là\N vận động trượt băng nghệ thuật vậy.
+Dialogue: 10,0:14:24.76,0:14:27.42,Main,,0,0,0,,Cân bằng như là\N vận động viên trượt băng nghệ thuật vậy.
 Dialogue: 10,0:14:27.72,0:14:31.26,Main,,0,0,0,,Nhưng chả phải\N em cũng đi trên bờ tường đó thôi?
 Dialogue: 10,0:14:31.26,0:14:32.72,Main,,0,0,0,,Lại còn trồng cây chuối nữa.
 Dialogue: 10,0:14:34.23,0:14:36.04,Main,,0,0,0,,Ừm thì cũng đúng.
@@ -402,7 +402,7 @@ Dialogue: 10,0:19:10.87,0:19:16.23,Main,,0,0,0,,Anh đùa với em là do ngực
 Dialogue: 10,0:19:16.23,0:19:21.97,Main,,0,0,0,,Anh là anh kỳ vọng vào tương lai, \Nchứ thời điểm này thì có như không.
 Dialogue: 10,0:19:21.97,0:19:24.39,Main,,0,0,0,,Làm người mà phát ngôn câu đó được à!
 Dialogue: 10,0:19:24.85,0:19:26.94,Main,,0,0,0,,Mà bảo này, Hachikuji...
-Dialogue: 10,0:19:26.94,0:19:30.89,Main,,0,0,0,,Anh đang cặp với Senjōgahara, \Nvà anh {\i1}yêu{\i0} Hanekawa.
+Dialogue: 10,0:19:26.94,0:19:30.89,Main,,0,0,0,,Anh đang cặp với Senjōgahara, \Nvà anh yêu Hanekawa.
 Dialogue: 10,0:19:31.81,0:19:34.61,Main,,0,0,0,,Nhưng cưới thì... phải là em.
 Dialogue: 10,0:19:36.73,0:19:41.24,Main,,0,0,0,,Làm ơn đừng cướp đi \Nlời cầu hôn đầu đời quý giá của em, Araragi-san!
 Dialogue: 10,0:19:41.24,0:19:43.70,Main,,0,0,0,,Mà làm ơn đừng có \Ncầu hôn học sinh tiểu học.
@@ -468,7 +468,7 @@ Dialogue: 10,0:22:31.91,0:22:35.41,Main,,0,0,0,,Ít cũng phải ngang ngửa v�
 Dialogue: 10,0:22:36.79,0:22:38.96,Main,,0,0,0,,Em đào đâu ra sư phụ thế.
 Dialogue: 0,0:24:10.60,0:24:12.25,Main,preview,0,0,0,,{\i1}Oshino Shinobu hen~
 Dialogue: 0,0:24:12.25,0:24:15.15,Main,preview,0,0,0,,{\i1}Đáp ứng kỳ vọng của ngươi \Nthì nay lão nương sẽ nói về donut.
-Dialogue: 0,0:24:15.15,0:24:21.77,Main,preview,0,0,0,,{\i1}Cách đây không lâu, cuối cùng lão nương cũng đã giải thích được\N sự tuyệt diệu của Sô-cô-là-Vàng cho chủ nhân,
+Dialogue: 0,0:24:15.15,0:24:21.77,Main,preview,0,0,0,,{\i1}Cách đây không lâu, cuối cùng lão nương cũng đã giải thích được\N sự tuyệt diệu của Sô-cô-la-Vàng cho chủ nhân,
 Dialogue: 0,0:24:21.77,0:24:24.50,Main,preview,0,0,0,,{\i1}Nhưng gã đàn ông đó lại lấy đó làm trò đùa.
 Dialogue: 0,0:24:24.91,0:24:29.86,Main,preview,0,0,0,,{\i1}"À thì, chỗ này này, \Nkhông phải {\c&HAEBAC5&}Sô-cô-la{\c} có màu {\c&H22EDF5&}Vàng{\c} đâu nhở?", kiểu thế.
 Dialogue: 0,0:24:30.65,0:24:32.12,Main,preview,0,0,0,,{\i1}Cái gì cơ?!
