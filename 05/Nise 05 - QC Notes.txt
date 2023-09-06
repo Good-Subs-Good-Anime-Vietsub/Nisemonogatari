@@ -1,0 +1,21 @@
+======================
+Dia:
+======================
+Nếu em muốn biết tại sao trước đây\N anh không có bạn...
+(Nếu em muốn biết\N tại sao trước đây anh không có bạn...)
+~DONE
+
+Chú không tin một đứa \Nhữu dũng như nhóc...
+(câu này không cần xuống dòng vì nó đủ ngắn, đồng bộ hơn với cả đoạn thoại đấy cũng đang 1 dòng)
+~DONE
+
+Thôi thì coi như chú miễn phí cho\N bài học ban nãy.
+(Thôi thì coi như\N chú miễn phí cho bài học ban nãy.)
+~DONE
+
+======================
+TS:
+======================
+
+
+======================

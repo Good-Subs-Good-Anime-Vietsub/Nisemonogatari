@@ -1,0 +1,24 @@
+======================
+Dia:
+======================
+Sengoku, gần đây có gì chuyện gì không?
+(Sengoku, gần đây có chuyện gì không?)
+~DONE
+
+Nadeko nghĩ Quái Dị chỉ thực sự có tác dụng \Ntrong mỗi vụ của Nadeko mà thôi.
+(thay từ Nadeko ở đầu thành "Em", đỡ lặp từ với lại trong câu thoại cũng chỉ có 1 lần Nadeko thôi)
+(Sengoku, gần đây có chuyện gì không?)
+~DONE (nếu em thì em hết, còn Nadeko hay tự xưng Nadeko nên để nguyên)
+
+Họ vốn từ đầu có lẽ đã không tin vào Quái Dị...\N em nghĩ vậy.
+(Bỏ "có lẽ" đi, gọn hơn mà vẫn đủ ý, giữ nguyên thứ tự hoặc đảo thành "Từ đầu họ vốn đã" cũng được)
+~DONE ("Họ có lẽ từ đầu đã")
+
+
+
+======================
+TS:
+======================
+...
+
+======================

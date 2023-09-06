@@ -266,7 +266,7 @@ Dialogue: 0,0:13:03.89,0:13:06.22,Main,,0,0,0,,Em sẽ gửi cô gái kia theo c
 Dialogue: 0,0:13:06.22,0:13:07.73,Main,,0,0,0,,Thế thì em cũng chết theo luôn.
 Dialogue: 0,0:13:07.73,0:13:11.10,Main,,0,0,0,,Em cũng sẽ gửi Kanbaru theo cùng \Nđể đảm bảo anh không cô đơn.
 Dialogue: 0,0:13:11.10,0:13:13.11,Main,,0,0,0,,Em coi Kanbaru là gì vậy hả?!
-Dialogue: 0,0:13:13.11,0:13:14.61,Main,,0,0,0,,Một công cụ với mang tên đàn em.
+Dialogue: 0,0:13:13.11,0:13:14.61,Main,,0,0,0,,Một công cụ mang tên đàn em.
 Dialogue: 0,0:13:14.61,0:13:16.65,Main,,0,0,0,,Nhẫn tâm nó vừa vừa thôi chứ!
 Dialogue: 0,0:13:16.65,0:13:17.99,Main,,0,0,0,,Đùa thôi.
 Dialogue: 0,0:13:17.99,0:13:19.90,Main,,0,0,0,,Kanbaru là đàn em đáng yêu.
@@ -299,7 +299,7 @@ Dialogue: 0,0:14:33.56,0:14:37.36,Main,,0,0,0,,Thật không may, \Nem không c�
 Dialogue: 0,0:14:38.32,0:14:40.56,Main,,0,0,0,,Nhưng nếu buộc phải đoán thì...
 Dialogue: 0,0:14:40.56,0:14:41.51,Main,,0,0,0,,phải rồi ha...
 Dialogue: 0,0:14:41.51,0:14:44.32,Main,,0,0,0,,chắc Araragi-kun đang chuồn về nhà\N sau khi phạm tội vặt nào đó.
-Dialogue: 0,0:14:44.32,0:14:47.57,Main,,0,0,0,,Phạm tội xong mà còn\N tâm trạng đi dạo thế này à!
+Dialogue: 0,0:14:44.32,0:14:47.57,Main,,0,0,400,,Phạm tội xong mà còn\N tâm trạng đi dạo thế này à!
 Dialogue: 0,0:14:48.12,0:14:50.04,Main,,0,0,0,,Anh là từ nhà Kanbaru về.
 Dialogue: 0,0:14:50.04,0:14:52.46,Main,,0,0,0,,Ra vậy, ra là phạm tội vặt ở nhà Kanbaru.
 Dialogue: 0,0:14:52.46,0:14:53.71,Main,,0,0,0,,Chả tội lỗi gì hết!
@@ -313,13 +313,13 @@ Dialogue: 0,0:15:07.39,0:15:09.59,Main,,0,0,0,,Anh có thấy một gã lạ m�
 Dialogue: 0,0:15:09.59,0:15:10.22,Main,,0,0,0,,Ể?!
 Dialogue: 0,0:15:10.22,0:15:13.24,Main,,0,0,0,,Từ khi nào mà trước cửa nhà Kanbaru\N có cái gương thế?
 Dialogue: 0,0:15:13.72,0:15:15.39,Main,,0,0,0,,Một gã lạ mặt...
-Dialogue: 0,0:15:15.39,0:15:17.02,Main,,0,0,0,,Hay đúng hơn là điềm gở.
+Dialogue: 0,0:15:15.39,0:15:17.02,Main,,0,0,0,,Hay đúng hơn là "điềm gở".
 Dialogue: 0,0:15:18.44,0:15:19.57,Main,,0,0,0,,Điềm gở?
 Dialogue: 0,0:15:19.57,0:15:20.82,Main,,0,0,0,,Tên là...
 Dialogue: 0,0:15:22.19,0:15:23.19,Main,,0,0,0,,...Kaiki?
 Dialogue: 0,0:15:24.07,0:15:25.15,Main,,0,0,0,,Đúng không nhở?
 Dialogue: 0,0:15:40.25,0:15:41.67,Main,,0,0,0,,Gã tên "Kaiki" đó...
-Dialogue: 0,0:15:42.63,0:15:44.80,Main,,0,0,0,,Người quen của em à?
+Dialogue: 0,0:15:42.63,0:15:44.80,Main,,0,0,0,,Em quen à?
 Dialogue: 0,0:15:53.27,0:15:55.93,Main,,0,0,0,,Giá như anh không hỏi thì tốt.
 Dialogue: 0,0:15:56.64,0:15:58.90,Main,,0,0,0,,Giá như không cần hỏi thì tốt.
 Dialogue: 0,0:15:58.90,0:16:00.52,Main,,0,0,0,,Nhưng cần mà đúng không?
@@ -359,7 +359,7 @@ Dialogue: 0,0:17:41.54,0:17:42.96,Main,,0,0,0,,{\i1}Và còn cả Kaiki...
 Dialogue: 0,0:17:42.96,0:17:44.88,Main,,0,0,0,,{\i1}Cả Kaiki Deishū cũng vậy.
 Dialogue: 0,0:17:46.25,0:17:49.26,GT 2,,0,0,0,,{\i1\pos(938.67,941.33)}(Honmono)
 Dialogue: 0,0:17:46.25,0:17:49.26,GT 2,,0,0,0,,{\i1\pos(1328,941.33)}(Nisemono)
-Dialogue: 0,0:17:46.25,0:17:49.26,Main,,0,0,0,,Cho dù gã là {\i1}chính hãng{\i0} hay {\i1}hàng giả{\i0}...
+Dialogue: 0,0:17:46.25,0:17:49.26,Main,,0,0,0,,Chưa cần biết là {\i1}chính hãng{\i0} hay {\i1}hàng giả{\i0}...
 Dialogue: 0,0:17:49.26,0:17:50.55,Main,,0,0,0,,Là hàng giả.
 Dialogue: 0,0:17:51.01,0:17:53.51,Main,,0,0,0,,Nhưng là dân lừa đảo hạng nhất.
 Dialogue: 0,0:17:53.51,0:17:57.76,Main,,0,0,0,,Cả gia đình em đã phải khốn đốn vì gã.
@@ -390,8 +390,8 @@ Dialogue: 0,0:19:14.36,0:19:15.50,Main,,0,0,0,,Ây! Gahara{*}-san{*}?!
 Dialogue: 0,0:19:15.50,0:19:16.47,Main,,0,0,0,,Hoặc...
 Dialogue: 0,0:19:17.13,0:19:18.61,Main,,0,0,0,,...cho đến khi em giết Kaiki.
 Dialogue: 0,0:19:18.61,0:19:19.68,Main,,0,0,0,,Ấy đừng!
-Dialogue: 0,0:19:19.68,0:19:22.32,Main,,0,0,0,,Đúng rồi, phải "xoèn xẹt" cho mấy cái.
-Dialogue: 0,0:19:22.32,0:19:23.20,Main,,0,0,0,,"Xoèn xẹt" cái gì?!
+Dialogue: 0,0:19:19.68,0:19:22.32,Main,,0,0,0,,Đúng rồi, phải "xoèn xoẹt" cho mấy cái.
+Dialogue: 0,0:19:22.32,0:19:23.20,Main,,0,0,0,,"Xoèn xoẹt" cái gì?!
 Dialogue: 0,0:19:23.20,0:19:25.10,Main,,0,0,0,,Bày đặt đáng yêu\N cũng không được đâu nhá!
 Dialogue: 0,0:19:25.10,0:19:26.52,Main,,0,0,0,,Không được là không được!
 Dialogue: 0,0:19:26.81,0:19:29.06,Main,,0,0,0,,Nói chung, Kaiki là loại người như—
@@ -416,7 +416,7 @@ Dialogue: 0,0:20:34.21,0:20:38.18,Main,,0,0,0,,Em không hèn nhát đến mức
 Dialogue: 0,0:20:38.18,0:20:42.10,Main,,0,0,0,,Cũng không tử tế đến mức\N chùn bước trước người yêu.
 Dialogue: 0,0:20:42.10,0:20:43.47,Main,,0,0,0,,Anh biết chứ.
 Dialogue: 0,0:20:45.27,0:20:47.10,Main,,0,0,0,,Thế nên anh mới yêu em.
-Dialogue: 0,0:20:48.60,0:20:52.27,Main,,0,0,0,nhatquan.nise02,Nếu anh muốn qua thì phải đánh bại được em!
+Dialogue: 0,0:20:48.60,0:20:52.27,Main,,0,0,0,nhatquan.nise02,Nếu anh muốn đi thì phải bước qua xác em.
 Dialogue: 0,0:20:52.27,0:20:54.26,Main,,0,0,0,,Araragi-kun liệu có làm nổi không?
 Dialogue: 0,0:20:54.26,0:20:55.40,Main,,0,0,0,,Được chứ.
 Dialogue: 0,0:20:55.40,0:20:58.70,Main,,0,0,0,@@@,Và câu đó sẽ không hiệu quả \N nếu em không làm tư thế "bắc cầu".
@@ -425,7 +425,7 @@ Dialogue: 0,0:21:01.03,0:21:03.49,Main,,0,0,0,,Anh cũng có những thứ muố
 Dialogue: 0,0:21:03.49,0:21:06.41,Main,,0,0,0,,Anh nghĩ mấy lời đó thuyết phục nổi em sao?
 Dialogue: 0,0:21:06.41,0:21:08.87,Main,,0,0,0,,Sao lại phải thuyết phục cơ chứ.
 Dialogue: 0,0:21:08.87,0:21:10.79,Main,,0,0,0,,Thế... như nào đây nhỉ...
-Dialogue: 0,0:21:10.79,0:21:14.92,Main,,0,0,0,@@@,Em không cho phép anh nghĩ em\N là kiểu phụ nữ hiểu chuyện đâu.
+Dialogue: 0,0:21:10.79,0:21:14.92,Main,,0,0,0,@@@,Em sẽ không để anh nghĩ em\N là kiểu phụ nữ hiểu chuyện đâu.
 Dialogue: 0,0:21:14.92,0:21:16.71,Main,,0,0,0,,Nhưng mà, Senjōgahara này...
 Dialogue: 0,0:21:16.71,0:21:19.38,Main,,0,0,0,,Rốt cuộc, em yêu anh ở điểm nào?
 Dialogue: 0,0:21:19.38,0:21:22.89,Main,,0,0,0,,Liệu em có thể tự hào khi yêu một người\N chỉ biết ngồi yên một chỗ không?
@@ -435,7 +435,7 @@ Dialogue: 0,0:21:26.39,0:21:28.52,Main,,0,0,0,,Em mà là con trai thì em đổ
 Dialogue: 0,0:21:28.52,0:21:30.10,Main,,0,0,0,,Làm ơn đổ kiểu con gái ấy!
 Dialogue: 0,0:21:30.44,0:21:31.35,Main,,0,0,0,,Thì đổ mà.
 Dialogue: 0,0:21:37.97,0:21:39.07,Main,,0,0,0,,Alô?
-Dialogue: 0,0:21:39.07,0:21:40.49,Main,,0,0,0,,Hiện tớ đang bận.
+Dialogue: 0,0:21:39.07,0:21:40.49,Main,,0,0,0,,Hiện {\i1}tớ{\i0} đang bận.
 Dialogue: 0,0:21:43.28,0:21:44.66,Main,,0,0,0,,K-Không...
 Dialogue: 0,0:21:46.13,0:21:47.46,Main,,0,0,0,,Đó chỉ là hiểu lầm thôi.
 Dialogue: 0,0:21:47.46,0:21:49.79,Main,,0,0,0,,Tớ có nói vậy bao giờ đâu.
@@ -515,5 +515,5 @@ Dialogue: 0,0:05:38.27,0:05:41.81,Signs,,0,0,0,gradient @acc 10,{\clip(100,842,1
 Dialogue: 0,0:05:38.27,0:05:41.81,Signs,,0,0,0,gradient @acc 10,{\clip(100,846,1800,850)\pos(949.7,839.4)\fad(480,808)\c&H51C998&\bord9\blur4.5\fnVL TelingaterDisplay\fs160\fsp6\3c&H3BCFAB&\an2\fscx70\fscy90}Hàng Giả Tạo Truyện
 Dialogue: 0,0:05:38.27,0:05:41.81,Signs,,0,0,0,gradient @acc 10,{\clip(100,850,1800,854)\pos(949.7,839.4)\fad(480,808)\c&H51C998&\bord9\blur4.5\fnVL TelingaterDisplay\fs160\fsp6\3c&H38D0AD&\an2\fscx70\fscy90}Hàng Giả Tạo Truyện
 Dialogue: 1,0:05:38.27,0:05:41.81,Signs,,0,0,0,gradient @acc 10,{\fad(480,808)\c&HF4F8EF&\blur0.8\fnVL TelingaterDisplay\fs160\pos(949.7,839.4)\fsp6\an2\fscx70\fscy90}Hàng Giả Tạo Truyện
-Dialogue: 1,0:05:38.27,0:05:41.81,Signs,credit,0,0,0,,{\fad(480,808)\c&H404040&\blur0.8\fnVL TelingaterDisplay\fs160\fs60\fsp6\an2\pos(960,207.4)\fscx51\fscy59}PHỤ ĐỀ ĐƯỢC THỰC HIỆN BỞI{\fs90} GSGA {\fs60}THANKS TO{\fs90} MTBB\N\N{\fs60}DỊCH{\fs90} KiOZ {\fs60}TYPESET{\fs90} KiOZ/moch1oka/Eagle {\fs60}QC{\fs90} KiOZ/moch1oka
-Dialogue: 1,0:05:38.27,0:05:41.81,Signs,credit,0,0,0,,{\fad(480,808)\c&H404040&\blur0.8\fnVL TelingaterDisplay\fs160\fs60\fsp6\an2\pos(961,207.4)\fscx51\fscy59}PHỤ ĐỀ ĐƯỢC THỰC HIỆN BỞI{\fs90} GSGA {\fs60}THANKS TO{\fs90} MTBB\N\N{\fs60}DỊCH{\fs90} KiOZ {\fs60}TYPESET{\fs90} KiOZ/moch1oka/Eagle {\fs60}QC{\fs90} KiOZ/moch1oka
+Dialogue: 1,0:05:38.27,0:05:41.81,Signs,credit,0,0,0,,{\fad(480,808)\c&H404040&\blur0.8\fnVL TelingaterDisplay\fs160\fs60\fsp6\an2\pos(960,207.4)\fscx51\fscy59}PHỤ ĐỀ ĐƯỢC THỰC HIỆN BỞI{\fs90} GSGA {\fs60}THANKS TO{\fs90} MTBB\N\N{\fs60}DỊCH{\fs90} KiOZ {\fs60}PHƯƠNG NGỮ{\fs90} tuilakhanh {\fs60}TYPESET{\fs90} KiOZ/moch1oka/Eagle {\fs60}QC{\fs90} KiOZ/moch1oka
+Dialogue: 1,0:05:38.27,0:05:41.81,Signs,credit,0,0,0,,{\fad(480,808)\c&H404040&\blur0.8\fnVL TelingaterDisplay\fs160\fs60\fsp6\an2\pos(961,207.4)\fscx51\fscy59}PHỤ ĐỀ ĐƯỢC THỰC HIỆN BỞI{\fs90} GSGA {\fs60}THANKS TO{\fs90} MTBB\N\N{\fs60}DỊCH{\fs90} KiOZ {\fs60}PHƯƠNG NGỮ{\fs90} tuilakhanh {\fs60}TYPESET{\fs90} KiOZ/moch1oka/Eagle {\fs60}QC{\fs90} KiOZ/moch1oka

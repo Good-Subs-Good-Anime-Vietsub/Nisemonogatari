@@ -1,0 +1,23 @@
+======================
+Dia:
+======================
+Đúng rồi, phải "xoèn xẹt" cho mấy cái.
+"Xoèn xẹt" cái gì?!
+(xoèn xoẹt)
+~DONE
+
+Một công cụ với mang tên đàn em.
+(thừa từ "với")
+~DONE
+
+======================
+TS:
+======================
+*Eagle: NAOETSU cảm giác chưa đủ nghiêng
+~DONE
+
+*KiOZ: chưa kể còn có giọng điệu chậm rãi đặc trưng có phần nữ tính hơn
+	   (lặp từ "có", thay thành "mang phần nữ tính hơn" chẳng hạn)
+~DONE
+
+======================
