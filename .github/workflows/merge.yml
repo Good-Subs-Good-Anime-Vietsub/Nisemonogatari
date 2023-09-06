@@ -30,8 +30,8 @@ jobs:
         for episode in {01..11}; do
           ./gradlew merge.${episode}
           mv "${episode}/Nise ${episode} - Merged.ass" "fonts/"
-        mv "OP-ED/*" "fonts/"
         done
+        mv "OP-ED/*" "fonts/"
 
     - name: Compress
       run: |
