@@ -31,7 +31,7 @@ jobs:
           ./gradlew merge.${episode}
           mv "${episode}/Nise ${episode} - Merged.ass" "fonts/"
         done
-        mv "OP-ED/*" "fonts/"
+        mv OP-ED/* "fonts/"
 
     - name: Compress
       run: |
