@@ -18,9 +18,9 @@ Video File: ../raws/[OZR] Nisemonogatari - 11 (BD 1080p HEVC Opus) [CE457E13].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 432
-Active Line: 435
-Video Position: 36925
+Scroll Position: 209
+Active Line: 224
+Video Position: 17779
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -149,7 +149,7 @@ Dialogue: 0,0:05:57.96,0:06:00.59,Main,,0,0,0,,Làm cái trò gì thế!!~
 Dialogue: 0,0:06:05.30,0:06:06.30,Main,,0,0,0,,Chịu luôn đấy!
 Dialogue: 0,0:06:06.97,0:06:08.30,Main,,0,0,0,,Không thể thế này được!
 Dialogue: 0,0:06:08.57,0:06:09.73,Main,,0,0,0,,Nụ hôn đầu...
-Dialogue: 0,0:06:09.73,0:06:14.27,Main,,0,0,0,,vốn định trao cho Rōsokuzawa-kun cơ mà!\N Ôi nụ hồn đầu của tôi!
+Dialogue: 0,0:06:09.73,0:06:14.27,Main,,0,0,0,,vốn định trao cho Rōsokuzawa-kun cơ mà!\N Ôi nụ hôn đầu của tôi!
 Dialogue: 0,0:06:19.60,0:06:21.11,Main,,0,0,0,,Cười cười cái gì mà cười!
 Dialogue: 0,0:06:21.11,0:06:22.33,Main,,0,0,0,,Không không...
 Dialogue: 0,0:06:22.33,0:06:25.90,Main,,0,0,0,,Anh chỉ đang nghĩ,\Ndù là hôn đấy nhưng anh chả cảm thấy gì cả.
@@ -266,7 +266,7 @@ Dialogue: 0,0:12:15.13,0:12:16.42,Main,,0,0,0,,Kaiki ư?!
 Dialogue: 0,0:12:17.04,0:12:18.05,Main,,0,0,0,,Kaiki ý cô là...
 Dialogue: 0,0:12:18.05,0:12:19.55,Main,,0,0,0,,Kaiki Deishū?
 Dialogue: 0,0:12:19.55,0:12:21.51,Main,phuongngu,0,0,0,,Phải phải, Kaiki{*}-kun{*}.
-Dialogue: 0,0:12:21.51,0:12:23.80,Main,phuongngu,0,0,0,,Cùng chuyên nghành, cùng câu lạc bộ.
+Dialogue: 0,0:12:21.51,0:12:23.80,Main,phuongngu,0,0,0,,Cùng chuyên ngành, cùng câu lạc bộ.
 Dialogue: 0,0:12:23.80,0:12:27.97,Main,phuongngu,0,0,0,,Cùng với 1 senpai khóa trên,\N bọn ta chơi shogi 4 người.
 Dialogue: 0,0:12:27.97,0:12:31.23,Main,,0,0,0,,Vậy CLB đó là... CLB Nghiên Cứu Shogi à?
 Dialogue: 0,0:12:31.23,0:12:33.56,Main,phuongngu,0,0,0,,Không không, là Nghiên Cứu Huyền Bí.
